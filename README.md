@@ -13,9 +13,11 @@ Fig.1 Framework of Semlog.
 Fig.2 model structure in Semlog.
 
 ### Reproduction
+Requirements: python 3.7, pytorch 1.10.1, numpy 1.21.2, scipy 1.7.3, pandas 1.3.5, Cuda 11.3,
+
 1.pip install pytorch_pretrained_bert
 
-2.download data
+2.download data, and put the models into file "SaveFile&Output/modelsave/"
 
 3.Run "Semlog/benchmark/Semlog_benchmark.py" to get the results of Semlog directly.
 
