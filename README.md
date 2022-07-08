@@ -14,9 +14,13 @@ Fig.2 model structure in Semlog.
 
 ### Reproduction
 1.pip install pytorch_pretrained_bert
+
 2.download data
+
 3.Run "Semlog/benchmark/Semlog_benchmark.py" to get the results of Semlog directly.
+
 4.Run "logparsers/*.py" to reproduce results of existing parsers
+
 The existing parser code reproduced in this paper relies on [LogPai](https://github.com/logpai).
 
 For the parsers compared in our experiment, we reproduce the code in https://github.com/logpai/logparser.
