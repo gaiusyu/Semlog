@@ -12,13 +12,12 @@ tokenizer = BertTokenizer.from_pretrained('../Bert/bert-base-uncased-vocab.txt')
 vocab_size=len(tokenizer.vocab)
 maxlen = 512
 batch_size = 380
-max_pred = 5  # 最大被maksed然后预测的个数 max tokens of prediction
-n_layers = 1  # encoder的层数
-n_heads = 1  # 多头注意力机制头数
-d_model = 768  # 中间层维度
-d_ff = 768 * 4  # 全连接层的维度 4*d_model, FeedForward dimension
-d_k = d_v = 64  # QKV的维度 dimension of K(=Q), V
-n_segments = 2  # 一个Batch里面有几个日志语句
+max_pred = 5  #  max tokens of prediction
+n_layers = 1  # num of encoder layer
+n_heads = 1  # one attention head
+d_model = 768  # dimension of model
+d_ff = 768 * 4  # fc 4*d_model, FeedForward dimension
+d_k = d_v = 64  # QKV dimension of K(=Q), V
 
 
 torch.manual_seed(0)
@@ -167,7 +166,7 @@ def vary_bert(stage, vocab_size):
             masked_pos = masked_pos[:, :, None].expand(-1, -1, d_model)  # [batch_size, max_pred, d_model]
             h_masked = torch.gather(output.to(device), 1,
                                     masked_pos.to(
-                                        device))  # masking position [batch_size, max_pred, d_model]  位置对齐，将masked的和原本的token对齐
+                                        device))  # masking position [batch_size, max_pred, d_model]  
             h_masked = self.activ2(self.linear(h_masked))  # [batch_size, max_pred, d_model]
             logits_lm = self.fc2(h_masked)  # [batch_size, max_pred, vocab_size]     #
             return logits_lm
@@ -191,7 +190,7 @@ def train(path,epoch_n,output,type,number):
             input_ids, masked_tokens, masked_pos = input_ids.to(device), masked_tokens.to(device), masked_pos.to(device)
             logits_lm = model(input_ids, masked_pos).to(device)
             loss_lm = criterion(logits_lm.view(-1, vocab_size),
-                                masked_tokens.view(-1)).to(device)  # for masked LM  Tensor.View元素不变，Tensor形状重构，当某一维为-1时，这一维的大小将自动计算。
+                                masked_tokens.view(-1)).to(device)  # for masked LM 
             loss_lm = (loss_lm.float()).mean().to(device)
             loss = loss_lm.to(device)
             print('Epoch:', '%04d' % (epoch + 1), 'loss =', '{:.6f}'.format(loss))
@@ -233,10 +232,10 @@ def makedata(insequence,path):   # data preprocessing
         lines = open(path,encoding='UTF-8')
         line = lines.read()
         token_list = []
-        sentences = []  #################存储删去源文件索引的日志语句
-        sentences2 = line.lower().split('\n')  # filter '.', ',', '?', '!'  re.sub 正则表达式处理数据
+        sentences = []  #################
+        sentences2 = line.lower().split('\n')  # filter '.', ',', '?', '!'  re.sub 
         for sentence in sentences2:
-            Index = sentence.find(' ')  # 按数据集格式找到该日志的content
+            Index = sentence.find(' ')  # content
             content = sentence[Index + 1:]
             sentences.append(content)
         for s in sentences:
@@ -263,20 +262,20 @@ def makedata(insequence,path):   # data preprocessing
 
             # MASK LM
             #############################  n_pred = min(max_pred,
-            #########################################              max(1, int(len(input_ids) * 0.15)))  # 选择一句话中有多少个token要被mask 15 % of tokens in one sentence
+            #########################################              max(1, int(len(input_ids) * 0.15)))  # mask 15 % of tokens in one sentence
             cand_maked_pos = [i for i, token in enumerate(input_ids)
                               if token != tokenizer.convert_tokens_to_ids(
-                    '[CLS]')]  # 排除分隔的CLS和SEP candidate masked position
-            random.shuffle(cand_maked_pos)  # 随机打乱过后
+                    '[CLS]')]  # 
+            random.shuffle(cand_maked_pos)  # 
             masked_tokens, masked_pos = [], []
             n_pad = maxlen - len(input_ids)
-            input_ids.extend([0] * n_pad)  # 填充操作，每个句子的长度是30 余下部分补000000
-            ######### segment_ids.extend([0] * n_pad)  # 填充操作，每个句子的长度是30 余下部分补000000
+            input_ids.extend([0] * n_pad)  # 
+            ######### segment_ids.extend([0] * n_pad)  # 
 
             # Zero Padding (100% - 15%) tokens
             ########if max_pred > n_pred:
             ###########n_pad = max_pred - n_pred
-            ###########masked_tokens.extend([0] * n_pad)  # masked的token最大5个，这个数组也要补0000，当你mask数量不足时
+            ###########masked_tokens.extend([0] * n_pad)  # 
             ###############masked_pos.extend([0] * n_pad)
 
             ##########if tokens_a_index + 1 == tokens_b_index and positive < batch_size / 2:
@@ -298,33 +297,33 @@ def makedata(insequence,path):   # data preprocessing
 
             # MASK LM
             #############################  n_pred = min(max_pred,
-            #########################################              max(1, int(len(input_ids) * 0.15)))  # 选择一句话中有多少个token要被mask 15 % of tokens in one sentence
+            #########################################              max(1, int(len(input_ids) * 0.15)))  # 
             cand_maked_pos = [i for i, token in enumerate(input_ids)
                               if token != tokenizer.convert_tokens_to_ids(
-                    tokenizer.tokenize("[CLS]"))]  # 排除分隔的CLS和SEP candidate masked position
-            random.shuffle(cand_maked_pos)  # 随机打乱过后
+                    tokenizer.tokenize("[CLS]"))]  # 
+            random.shuffle(cand_maked_pos)  # 
             masked_tokens, masked_pos = [], []
             c=0
             for pos in cand_maked_pos[
                        :len(
-                           cand_maked_pos)]:  #########################################for pos in cand_maked_pos[:n_pred]:  # 随机打乱后取前n_pred个token做mask
+                           cand_maked_pos)]:  #########################################for pos in cand_maked_pos[:n_pred]:  # 
                 input_ids = tokenizer.convert_tokens_to_ids(tokenizer.tokenize("[CLS]")) + tokens_value
                 masked_tokens, masked_pos = [], []
                 masked_pos.append(pos)
                 masked_tokens.append(input_ids[pos])
                 #####masked_tokens.append(input_ids[pos])
 
-                if random.random() < 0.8:  # 80%                    #按Bert论文概率选取mask的方式
+                if random.random() < 0.8:  # 80%                    #
                     input_ids[pos] = 103  # make mask
-                elif random.random() > 0.9:  # 百分之十的几率随机替换为其他单词 10%
+                elif random.random() > 0.9:  # 
                     index = random.randint(0, vocab_size - 1)  # random index in vocabulary
                     while index < 4:  # can't involve 'CLS', 'SEP', 'PAD'
                         index = random.randint(0, vocab_size - 1)
                     input_ids[pos] = index  # replace
-                ####if random() < 0.8:  # 80%                    #按Bert论文概率选取mask的方式
+                ####if random() < 0.8:  # 80%                    #
                 # make mask
                 n_pad = maxlen - len(input_ids)
-                input_ids.extend([0] * n_pad)  # 填充操作，每个句子的长度是30 余下部分补000000
+                input_ids.extend([0] * n_pad)  # 
                 batch.append([input_ids, masked_tokens, masked_pos])
                 c+=1
                 if c == len(cand_maked_pos):
@@ -334,14 +333,14 @@ def makedata(insequence,path):   # data preprocessing
     else:
        print('dataset file not exist')
 
-def getcontentwithoutnumber(input_path, output_path,rgex,choose):      ###########根据日志format 得到日志的content,根据Choose来选择是否保留带数字和/的参数
+def getcontentwithoutnumber(input_path, output_path,rgex,choose):      ###########
     lines = open(input_path, encoding='UTF-8')
     line = lines.read()
     lines.close()
     time = 3
     t = 0
     sentences = re.sub("[,!?\\-_=]", ' ', line.lower()).split('\n')
-    with open(output_path, 'w', encoding='UTF-8') as f:  # 将日志content输出到一个文件夹
+    with open(output_path, 'w', encoding='UTF-8') as f:  # 
         d=0
         for sentence in sentences:
             print('============= you are processing ====== '+ str(d))
@@ -423,7 +422,7 @@ def get_eval_metric(result_path,template_path):
 def clusteringwithlen(content_path, output):
         i=0
         n=0
-        b2 = open(content_path, encoding='UTF-8')  # 加载embedding
+        b2 = open(content_path, encoding='UTF-8')  # 
         line2 = b2.read()
         b2.close()
         sentences = line2.split('\n')
@@ -445,7 +444,7 @@ def clusteringwithlen(content_path, output):
                     f.close()
                 i+=1
             f = open('../SaveFiles&Output/Cluster/' + str(output) + '/'+ str(output) + str(len(sentence)) + '.csv',
-                     'a+',encoding='UTF-8')  # 使用‘a'来提醒python用附加模式的方式打开
+                     'a+',encoding='UTF-8')  # 
             f.write(sentence2 + '\n')
             f.close()
             n+=1
