@@ -28,5 +28,5 @@ paper link: https://arxiv.org/pdf/1811.03509.pdf.
 
 ![image](https://user-images.githubusercontent.com/84389256/171178704-0246cacf-de8e-4d11-8b49-a9759f005ed3.png)
 
-## !!!Since Semlog is not designed for batch processing, the parsing process is a bit time consuming (about 10~20 seconds for a Sample dataset).!!!
+## !!!Since Semlog is not designed for batch processing, the parsing process is a bit time consuming (about 10 seconds for a Sample dataset, i.e, 2K).!!!
 We have experimented with batch design, the relevant code may be released in the future
