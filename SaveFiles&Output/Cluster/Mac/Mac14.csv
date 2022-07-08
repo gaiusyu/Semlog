@@ -1,0 +1,130 @@
+[CLS] arpt: 620749.901374: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] arpt: 621145.554555: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] vdcassistant:  found a camera    but was not able to start it up  successful)
+[CLS] arpt: 645791.413780: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 156 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 661552.832561: iopmpowersource information: onwake   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] device_generate_lock_screen_screenshot: authw 0x7fa823962400 0  0  1440  900  shield 0x7fa82d372000  dev  1440 900 
+[CLS] arpt: 671856.784669: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 18011 
+[CLS] arpt: 673399.580233: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 13027 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 681387.132167: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 682468.243050: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 682638.445688: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 698898.741521: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 699408.252331: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS]  accounts  current connection  <nsxpcconnection: 0x7fda74805bf0> connection from pid 487  doesn't have account access.
+[CLS]  accounts  failed to update account with identifier 76fe6715-3d27-4f21-aa35-c88c1ea820e8  error: error domain=abaddressbookerrordomain code=1002 ""
+[CLS] arpt: 711599.232230: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 711749.913729: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] arpt: 711752.511718: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 712918.575461: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] arpt: 712997.981881: iopmpowersource information: onwake   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] arpt: 713439.104255: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] device_generate_lock_screen_screenshot: authw 0x7fa824145a00 0  0  1440  900  shield 0x7fa825dafc00  dev  1440 900 
+[CLS] cocoa scripting error for '0x00660011': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x0067000f': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00670033': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x03600009': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x0360001f': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x03f20026': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x009a0005': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00990013': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00690003': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x006a0061': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x006a00a6': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x006a00a7': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x006a00b2': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x006d0002': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00b20001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x03ef000d': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00b8fffe': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00bb0001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00bc0007': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00c1000a': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00c40027': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00c5000c': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00e80002': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x03eb0001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x006f0001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x00730020': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x007c000c': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x007c0018': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x007d000e': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x008b036a': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x008b6fb5': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x008b0360': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x008bdeaa': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x008bdeb0': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x01f60001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x01f90004': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02080000': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02100004': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02120000': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02120002': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x023b0003': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x023d0001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02410003': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02420002': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02420006': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02470032': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02470045': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x0247ffe9': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x0249002a': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x024a00b2': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x025c0009': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x0261fffd': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02640011': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x0268000a': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02720002': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02740004': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02cc0000': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02d10001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02770011': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02780026': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x027b0006': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x027e0001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02801000': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02950006': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x0295001d': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x029f0014': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x029f003a': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02a60001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02b60001': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02b70006': four character codes must be four characters long.
+[CLS] cocoa scripting error for '0x02cb000d': four character codes must be four characters long.
+[CLS] 2017-07-05 10:52:16.977 googlesoftwareupdateagent 35861/0x700000323000   lvl=2  - ksprefetchaction performaction  ksprefetchaction no updates to prefetch.
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 724869.297011: iopmpowersource information: onwake   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 4551 
+[CLS] 2017-07-05 16:18:06.450 googlesoftwareupdateagent 36128/0x7000002a0000   lvl=2  - ksoutofprocessfetcher beginfetchwithdelegate:  ksoutofprocessfetcher fetching from url: "https://tools.google.com/service/update2?cup2hreq=ac844e04cbb398fcef4cf81b4ffc44a3ebc863e89d19c0b5d39d02d78d26675b&cup2key=7:677488741"
+[CLS] device_generate_lock_screen_screenshot: authw 0x7fa82502bc00 0  0  0  0  shield 0x7fa823930c00  dev  1440 900 
+[CLS] arpt: 728563.210777: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 3174 
+[CLS]  accounts  failed to update account with identifier 76fe6715-3d27-4f21-aa35-c88c1ea820e8  error: error domain=abaddressbookerrordomain code=1002 ""
+[CLS] arpt: 739549.504820: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 740631.402908: iopmpowersource information: onwake   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 5802 
+[CLS]  com.apple.calendar.store.log.caldav.queue   account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <caldavaccountrefreshqueueableoperation: 0x7fa11f9f2290; sequence: 0> 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 762366.143164: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 762484.281874: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 762543.171617: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] could not get event name for stream/token: com.apple.xpc.activity/4505: 132: request for stale data
+[CLS] arpt: 770226.223664: iopmpowersource information: onwake   sleeptype: normal sleep   'externalconnected': yes  'timeremaining': 0 
+[CLS] arpt: 770812.035971: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 771393.363637: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 771631.938256: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 9235 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS] arpt: 783795.288172: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+[CLS] arpt: 784055.560270: iopmpowersource information: onsleep   sleeptype: normal sleep   'externalconnected': no  'timeremaining': 5600 
+[CLS] - networkanalyticsengine _writejournalrecord:fromcellfingerprint:key:atloi:ofkind:lqm:isfaulty:  hashing of the primary key failed. dropping the journal record.
+[CLS]  accounts  current connection  <nsxpcconnection: 0x7fda72614240> connection from pid 30318  doesn't have account access.

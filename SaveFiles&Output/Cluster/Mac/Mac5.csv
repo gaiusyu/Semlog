@@ -1,0 +1,109 @@
+[CLS] setting hostname to "authormacbook-pro.local"
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] captive: cnpluginhandler en0: evaluating
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS]  hid   mt  applemultitouchdevice::willterminate entered
+[CLS] previous sleep cause: 5
+[CLS] wake reason: rtc 
+[CLS] hibernate_page_list_setall found pagecount 448015
+[CLS] previous sleep cause: 5
+[CLS] captive: cnpluginhandler en0: authenticated
+[CLS] previous sleep cause: 5
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] network changed: dns* proxy
+[CLS] error in coredragremovereceivehandler: -1856
+[CLS] captive: cnpluginhandler en0: inactive
+[CLS] captive: cnpluginhandler en0: evaluating
+[CLS] sigio_handler: sigio_handler_active != 0
+[CLS] previous sleep cause: 5
+[CLS] previous sleep cause: 5
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] sigio_handler: sigio_handler_active != 0
+[CLS] hibernate_teardown_pmap_structs done: last_valid_compact_indx 282563
+[CLS] previous sleep cause: 5
+[CLS] sigio_handler: sigio_handler_active != 1
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] setting hostname to "authormacbook-pro.local"
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] captive: cnpluginhandler en0: authenticated
+[CLS] captive: cnpluginhandler en0: evaluating
+[CLS] hibernate image path: /var/vm/sleepimage
+[CLS] hibernate_setup took 4429 ms
+[CLS] hcicontrolleronline; hid devices? 0
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] wake reason: arpt 
+[CLS] payload data 07 00
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] hibernate_rebuild_pmap_structs done: last_valid_compact_indx 285862
+[CLS] captive: cnpluginhandler en0: authenticated
+[CLS] sigio_handler: sigio_handler_active != 1
+[CLS] previous sleep cause: 5
+[CLS] previous sleep cause: 5
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] setting hostname to "authormacbook-pro.local"
+[CLS] captive: cnpluginhandler en0: authenticated
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] extension com.apple.ncplugin.worldclock -> 
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] kern_open_file_for_direct_io took 6 ms
+[CLS] previous sleep cause: 5
+[CLS] wake reason: rtc 
+[CLS] unrecognized attribute value: t:abchpersonitemtype
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] wake reason: rtc 
+[CLS] wake reason: ec.sleeptimer 
+[CLS]  hid   mt  applemultitouchdevice::willterminate entered
+[CLS] hibernate_page_list_setall found pagecount 488653
+[CLS]  hid   mt  applemultitouchdevice::willterminate entered
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] en0: manual intervention required!
+[CLS] setting hostname to "calvisitor-10-105-163-9.calvisitor.1918.berkeley.edu"
+[CLS] network changed: dns* proxy
+[CLS] captive: cnpluginhandler en0: inactive
+[CLS] wake reason: arpt 
+[CLS] hibernate_page_list_setall time: 603 ms
+[CLS]  hid   mt  applemultitouchdevice::start entered
+[CLS] url host = www.baidu.com
+[CLS] the url = http://baike.baidu.com/item/%e8%93%9d%e9%87%87%e5%92%8c/462624?fr=aladdin
+[CLS] network changed: dns* proxy
+[CLS] previous sleep cause: 5
+[CLS] previous sleep cause: 5
+[CLS] previous sleep cause: 5
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] wake reason: rtc 
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] cfnetwork sslhandshake failed 
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] setting hostname to "authormacbook-pro.local"
+[CLS] setting hostname to "authormacbook-pro.local"
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] error in coredragremovetrackinghandler: -1856
+[CLS] captive: cnpluginhandler en0: authenticated
+[CLS] previous sleep cause: 5
+[CLS] captive: cnpluginhandler en0: inactive
+[CLS] rtc: powerbycalendardate setting ignored
+[CLS] previous sleep cause: 5
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] io80211awdlpeermanager::setawdlsuspendedmode suspending awdl  enterquietmode
+[CLS] previous sleep cause: 5
+[CLS] sigio_handler: sigio_handler_active != 1
+[CLS] wake reason: arpt 
+[CLS]  hid   mt  appleactuatorhideventdriver::start entered
+[CLS] captive: cnpluginhandler en0: evaluating
+[CLS] captive: cnpluginhandler en0: authenticated
+[CLS] hibernate_setup took 8471 ms
+[CLS] captive: cnpluginhandler en0: inactive
+[CLS] setting hostname to "calvisitor-10-105-162-124.calvisitor.1918.berkeley.edu"
+[CLS] hibernate image path: /var/vm/sleepimage
+[CLS] hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096
+[CLS] captive: cnpluginhandler en0: authenticated
+[CLS] wake reason: rtc 

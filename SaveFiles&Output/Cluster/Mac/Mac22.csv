@@ -1,0 +1,4 @@
+[CLS] <<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4812 bytes @ 358800 took 1.053312 secs. to complete  5 reads >= 1 sec.
+[CLS] <<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4321 bytes @ 48 took 0.607292 sec. to complete  7 reads >= 0.5 sec.
+[CLS] <<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 21335 bytes @ 5481561 took 0.501237 sec. to complete  16 reads >= 0.5 sec.
+[CLS] booter start at 1251 ms smc 0 ms   18  0  0  total 367 ms  dsply 0  0 ms  tramp 1080 ms

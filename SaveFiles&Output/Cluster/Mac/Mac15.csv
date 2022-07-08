@@ -1,0 +1,61 @@
+[CLS] arpt: 621131.293163: wl0: roamed or switched channel  reason #8  bssid 5c:50:15:4c:18:13  last rssi -64
+[CLS]  secosstatuswith error: -50  error domain=nsosstatuserrordomain code=-50 "query missing class name"  userinfo={nsdescription=query missing class name}
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS]  com.apple.calendar.store.log.caldav.coredav   refusing to parse response to proppatch because of content-type:  text/html; charset=utf-8 . 
+[CLS]  hid   atc   error  appledevicemanagementhideventservice::start could not make a string from out connection notification key
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] 2017-07-02 15:46:40.697 googlesoftwareupdateagent 32432/0x7000002a0000   lvl=2  - ksupdateengine updateallexceptproduct:  ksupdateengine updating all installed products  except:'com.google.keystone'.
+[CLS]  secosstatuswith error: -50  error domain=nsosstatuserrordomain code=-50 "query missing class name"  userinfo={nsdescription=query missing class name}
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] arpt: 669592.164786: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] ****  iobluetoothfamily  processbluetoothtransportshowsupactionwl  -- calling iobluetoothfamily's registerservice -- 0x5fd0 -- 0x9a00 -- 0x6800 ****
+[CLS]  hid   atc   error  appledevicemanagementhideventservice::start could not make a string from out connection notification key
+[CLS] ****  iobluetoothfamily  processbluetoothtransportshowsupactionwl  -- calling iobluetoothfamily's registerservice -- 0x5fd0 -- 0x9a00 -- 0xc800 ****
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS]  secosstatuswith error: -50  error domain=nsosstatuserrordomain code=-50 "query missing class name"  userinfo={nsdescription=query missing class name}
+[CLS]  secosstatuswith error: -50  error domain=nsosstatuserrordomain code=-50 "query missing class name"  userinfo={nsdescription=query missing class name}
+[CLS] 2017-07-04 15:03:53.270 googlesoftwareupdateagent 35018/0x7000002a0000   lvl=2  - ksoutofprocessfetcher helperdidterminate:  ksoutofprocessfetcher fetch ended for url: "https://tools.google.com/service/update2?cup2hreq=a70d6372a4e45a6cbba61cd7f057c79bf73c79db1b1951dc17c605e870f0419b&cup2key=7:934679018"
+[CLS]  com.apple.calendar.store.log.caldav.coredav   refusing to parse response to proppatch because of content-type:  text/html; charset=utf-8 . 
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS]  com.apple.calendar.store.log.caldav.coredav   refusing to parse response to proppatch because of content-type:  text/html; charset=utf-8 . 
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] 2017-07-05 10:52:15.982 googlesoftwareupdateagent 35861/0x700000323000   lvl=2  - ksoutofprocessfetcher helperdidterminate:  ksoutofprocessfetcher fetch ended for url: "https://tools.google.com/service/update2?cup2hreq=d297a7e5b56d6bd4faa75860fff6e485c301bf4e943a561afff6c8b3707ce948&cup2key=7:2988503627"
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] arpt: 725209.960568: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+[CLS] arpt: 725996.811165: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+[CLS] hostcontrolleronline - number of paired devices = 1  list of paired devices = 
+[CLS] arpt: 729188.852474: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+[CLS] 2017-07-06 00:30:37.071 googlesoftwareupdateagent 36436/0x7000002a0000   lvl=2  - ksupdateengine updateallexceptproduct:  ksupdateengine updating all installed products  except:'com.google.keystone'.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] 2017-07-06 09:24:14.733 googlesoftwareupdateagent 36726/0x7000002a0000   lvl=2  - ksmultiupdateaction performaction  kspromptaction had no updates to apply.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] arpt: 739295.354731: wl0: roamed or switched channel  reason #4  bssid f8:4f:57:3b:ea:b2  last rssi -77
+[CLS] 2017-07-06 14:57:16.661 googlesoftwareupdateagent 37059/0x7000002a0000   lvl=2  - ksoutofprocessfetcher helperdidterminate:  ksoutofprocessfetcher fetch ended for url: "https://tools.google.com/service/update2?cup2hreq=37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key=7:4200177539"
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] 2017-07-06 20:46:03.869 googlesoftwareupdateagent 37316/0x7000002a0000   lvl=2  - ksoutofprocessfetcher beginfetchwithdelegate:  ksoutofprocessfetcher start fetch from url: "https://tools.google.com/service/update2?cup2hreq=5e15fbe422c816bef7c133cfffdb516e16923579b9be2dfae4d7d8d211b25017&cup2key=7:780377214"
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] 2017-07-07 01:47:40.090 googlesoftwareupdateagent 37644/0x7000002a0000   lvl=2  - ksoutofprocessfetcher beginfetchwithdelegate:  ksoutofprocessfetcher start fetch from url: "https://tools.google.com/service/update2?cup2hreq=c30943ccd5e0a03e93b6be3e2b7e2127989f08f1bde99263ffee091de8b8bc39&cup2key=7:1039900771"
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] arpt: 770597.394609: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+[CLS] arpt: 770772.533370: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+[CLS] arpt: 770786.961436: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+[CLS]  secosstatuswith error: -50  error domain=nsosstatuserrordomain code=-50 "query missing class name"  userinfo={nsdescription=query missing class name}
+[CLS] arpt: 771663.085756: wl0: roamed or switched channel  reason #8  bssid 00:a6:ca:db:93:cc  last rssi -60
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] coreanimation: warning  deleted thread with uncommitted catransaction; set ca_debug_transactions=1 in environment to log backtraces.
+[CLS]  com.apple.calendar.store.log.caldav.coredav   refusing to parse response to proppatch because of content-type:  text/html; charset=utf-8 . 
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS] arpt: 784632.788065: wl0: roamed or switched channel  reason #8  bssid 5c:50:15:36:bc:03  last rssi -69
+[CLS] send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+[CLS]  com.apple.calendar.store.log.caldav.coredav   refusing to parse response to proppatch because of content-type:  text/html; charset=utf-8 . 

@@ -1,0 +1,116 @@
+[CLS] arpt: 620701.011328: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] arpt: 620702.879952: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] pm response took 2010 ms 
+[CLS] arpt: 621342.242614: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] arpt: 621490.890645: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] arpt: 621492.770239: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] arpt: 621738.114066: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] 10:46:47.425 : btle scanner powered on
+[CLS] arpt: 626132.740936: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] pm response took 1938 ms 
+[CLS] 11:49:29.473 : btle scanner powered on
+[CLS] saw change in network reachability 
+[CLS] en0: channel changed to 132 +1
+[CLS] 13:20:12.402 : btle scanner powered on
+[CLS] pmstats: hibernate read took 197 ms
+[CLS] 02:18:39.156 : btle scanner powered on
+[CLS] pm response took 28003 ms 
+[CLS] arpt: 646193.687729: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] tbt w : 0x0040  x 
+[CLS] arpt: 646509.760609: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] 21:48:53.041 : btle scanner powered off
+[CLS] en0: channel changed to 132 +1
+[CLS] 01:06:37.436 : scanning mode contacts only
+[CLS] arpt: 672115.511090: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] en0: channel changed to 132 +1
+[CLS] arpt: 672925.537944: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] arpt: 672925.539048: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] arpt: 673078.174655: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] arpt: 673255.225425: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] pm response took 1857 ms 
+[CLS] pm response took 1936 ms 
+[CLS] 09:57:10.384 : scanning mode contacts only
+[CLS] arpt: 681446.072377: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] central manager is not powered on
+[CLS] arpt: 682468.243133: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] arpt: 682969.397322: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] arpt: 683172.046921: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] init -- host controller is published
+[CLS] arpt: 683617.825411: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] warning: hibernate_page_list_setall skipped 11799 xpmapped pages
+[CLS] en0: channel changed to 132 +1
+[CLS] arpt: 697853.842104: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] arpt: 698055.177765: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] pm response took 1999 ms 
+[CLS] arpt: 698896.831598: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] network changed: v4 v6 dns- proxy-
+[CLS] pm response took 1999 ms 
+[CLS] arpt: 699878.306468: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] arpt: 700256.949512: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] network changed: v4 dns+ proxy+ smb
+[CLS] arpt: 702415.308381: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] 17:26:44.228 : scanning mode contacts only
+[CLS] 18:35:05.187 : scanning mode contacts only
+[CLS] peripheral manager is not powered on
+[CLS] arpt: 712921.782306: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] 20:54:03.455 : btle scanner powered on
+[CLS] 21:07:16.729 : scanning mode contacts only
+[CLS] peripheral manager is not powered on
+[CLS] 22:29:26.099 : btle scanner powered on
+[CLS] pm response took 113 ms 
+[CLS] pm response took 1988 ms 
+[CLS] <immacnotificationcentermanager: 0x7ff1b2e00ba0>: updating enabled: yes   )
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] hibernate_rebuild completed - took 10042450943433 msecs
+[CLS] saw change in network reachability 
+[CLS] <immacnotificationcentermanager: 0x7fdcc9d16380>: updating enabled: no   )
+[CLS] arp_client_transmit failed  network is down 
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] peripheral manager is not powered on
+[CLS] warning: hibernate_page_list_setall skipped 19622 xpmapped pages
+[CLS] unable to start netbios name service:
+[CLS] got an xpc error: connection invalid
+[CLS] en0: channel changed to 36 +1
+[CLS] arpt: 739420.595498: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] init -- host controller is published
+[CLS] 14:16:06.179 : scanning mode contacts only
+[CLS] pm response took 1999 ms 
+[CLS] en0: channel changed to 36 +1
+[CLS] arpt: 740226.968934: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] arpt: 740345.497593: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] arpt: 740352.115529: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] arpt: 740504.547655: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] 17:23:43.193 : scanning mode contacts only
+[CLS] 2017-07-06 06:22:57.163367 pm  airplayuiagent  becominginactive: nsworkspacewillsleepnotification
+[CLS] 18:37:30.916 : btle scanner powered off
+[CLS] 19:17:46.405 : btle scanner powered off
+[CLS] arpt: 744472.877165: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] arpt: 744595.284508: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] pm response took 129 ms 
+[CLS] 20:03:05.179 : btle scanner powered off
+[CLS] page bounds {{0  0}  {400  400}}
+[CLS] page bounds {{0  0}  {400  400}}
+[CLS] arpt: 763023.568413: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] tbt w : 0x0040  x 
+[CLS] arpt: 770602.528852: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] tbt w : 0x0040  x 
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] tbt w : 0x0040  x 
+[CLS] saw change in network reachability 
+[CLS] arpt: 771456.438849: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] arpt: 771516.615152: airport_brcm43xx::platformwowenable: wwen disable 
+[CLS] unable to start netbios name service:
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] saw change in network reachability 
+[CLS] 18:50:46.109 : btle scanner powered on
+[CLS] 22:24:31.135 : btle scanner powered on
+[CLS] arpt: 784178.158614: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] arpt: 784287.966851: airport_brcm43xx::platformwowenable: wwen enable 
+[CLS] ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions
+[CLS] arpt: 785104.988856: airport_brcm43xx::syncpowerstate: wwen enabled 
+[CLS] vm_compressor_fastwake_warmup completed - took 12461 msecs
+[CLS] telling csi to go low power.

@@ -1,0 +1,57 @@
+[CLS] arpt: 627305.613279: wl0: setup_keepalive: seq: 1664112163  ack: 818851215  win size: 4096
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9951303310>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9951105bf0>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9951005740>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950606790>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950606790>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950606790>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS]  iobluetoothfamily  staticbluetoothtransportshowsup  -- received bluetooth controller register service notification -- 0x7000
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] 2017-07-02 15:46:41.445 ksfetch 32435/0x7fff79824000   lvl=2  main ksfetch fetching url  to folder:/tmp/ksoutofprocessfetcher.yh2cjy1tnx/download
+[CLS] arpt: 671889.268467: wl0: setup_keepalive: seq: 2040703749  ack: 3006590414  win size: 4096
+[CLS] arpt: 672113.005034: wl0: setup_keepalive: seq: 1128495564  ack: 3106452487  win size: 4096
+[CLS] opened file /var/log/sleepwakestacks.bin  size 172032  extents 1  maxio 2000000 ssd 1
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS]  16:25:45.631  <<<< crabs >>>> crabsflumehostunavailable:  0x7f961cf08cf0  byte flume reports host unavailable.
+[CLS]  18:56:23.837  <<<< crabs >>>> crabsflumehostunavailable:  0x7f961cf08cf0  byte flume reports host unavailable.
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] arpt: 699925.384446: wl0: setup_keepalive: seq: 4253304142  ack: 3255241453  win size: 4096
+[CLS] arpt: 700254.389213: wl0: setup_keepalive: seq: 2502126767  ack: 2906384231  win size: 4096
+[CLS] - soapparser:0x7f82b1f24e50 parser:didstartelement:namespaceuri:qualifiedname:attributes:  type not found in ewsitemtype for exchangepersonidguid 
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] arpt: 700980.255260: wl0: setup_keepalive: seq: 2955519239  ack: 2597833420  win size: 4096
+[CLS] - soapparser:0x7fc7025b2810 parser:didstartelement:namespaceuri:qualifiedname:attributes:  type not found in ewsitemtype for exchangepersonidguid 
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f995060af50>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950411670>.
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] opened file /var/log/sleepwakestacks.bin  size 172032  extents 1  maxio 2000000 ssd 1
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] <immacnotificationcentermanager: 0x7fdcc9d16380>: notification observer: com.apple.facetime   notification: __cfnotification 0x7fdcc9d19110 {name = _nsdonotdisturbenablednotification}
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] opened file /var/vm/sleepimage  size 1073741824  extents 3  maxio 2000000 ssd 1
+[CLS] 2017-07-06 09:24:14.417 ksfetch 36728/0x7fff79824000   lvl=2  main ksfetch fetching url  to folder:/tmp/ksoutofprocessfetcher.apwod5qmh1/download
+[CLS] arpt: 739357.156234: wl0: setup_keepalive: seq: 1852166454  ack: 1229910694  win size: 4096
+[CLS] dnssd_clientstub connecttoserver: connect failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted
+[CLS] 2017-07-06 14:57:16.667 googlesoftwareupdateagent 37059/0x7000002a0000   lvl=2  - ksagentapp updateenginefinishedwitherrors:  keystone finished: errors=0
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f995050b170>.
+[CLS] arpt: 764427.640542: wl0: setup_keepalive: seq: 204730741  ack: 2772623181  win size: 4096
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f995070be80>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f995060a270>.
+[CLS] - soapparser:0x7f84bad89660 parser:didstartelement:namespaceuri:qualifiedname:attributes:  type not found in ewsitemtype for exchangepersonidguid 
+[CLS] - soapparser:0x7fca6040cb50 parser:didstartelement:namespaceuri:qualifiedname:attributes:  type not found in ewsitemtype for exchangepersonidguid 
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9951217bb0>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.
+[CLS] - isgenerateimageop generateimagewithcompletion:  failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9951214ca0>.
+[CLS] <<<< mediavalidator >>>> mv_validaterfc4281codecid: unrecognized codec 1.. failed codec specific check.
+[CLS] 2017-07-08 06:26:32.364 googlesoftwareupdateagent 39159/0x7000002a0000   lvl=2  - ksagentapp updateenginefinishedwitherrors:  keystone finished: errors=0

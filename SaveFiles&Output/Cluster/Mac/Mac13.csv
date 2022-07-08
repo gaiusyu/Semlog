@@ -1,0 +1,66 @@
+[CLS] arpt: 620750.434035: wl0: wl_update_tcpkeep_seq: original seq: 3226706533  ack: 3871687177  win size: 4096
+[CLS]  09:21:58.929  <<<< crabs >>>> crabsflumehostavailable:  0x7f961cf08cf0  byte flume reports host available again.
+[CLS] arpt: 621146.080894: wl0: wl_update_tcpkeep_seq: original seq: 3014995849  ack: 2590995288  win size: 4096
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-01 17:08:20 +0000 confidence=1 from=/ 
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc19060 125.39.133.143:14000
+[CLS] network: requery  0  0  0  0  250  items  fqueryretries  0  flastretrytimestamp  520665636.6
+[CLS] arpt: 640362.070027: wl0: wl_update_tcpkeep_seq: original seq: 2000710617  ack: 2120985509  win size: 4096
+[CLS] network: requery  0  0  0  0  250  items  fqueryretries  0  flastretrytimestamp  520708962.7
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-03 03:01:48 +0000 confidence=1 from=/ 
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-03 03:22:06 +0000 confidence=1 from=/ 
+[CLS] 2017-07-02 20:50:47.457 ksfetch 32776/0x7fff79824000   lvl=2  kshelperreceivealldata kshelpertool read 1926 bytes from stdin.
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-03 09:32:01 +0000 confidence=1 from=/ 
+[CLS] network: requery  0  0  0  0  252  items  fqueryretries  0  flastretrytimestamp  520765684.9
+[CLS] arpt: 672663.206073: wl0: wl_update_tcpkeep_seq: original seq: 2185760336  ack: 2085655440  win size: 4096
+[CLS] network: requery  0  0  0  0  252  items  fqueryretries  0  flastretrytimestamp  520783088.4
+[CLS] 2017-07-03 10:40:42.940 googlesoftwareupdateagent 33263/0x700000323000   lvl=2  - ksomahaserver updateinfosforupdateresponse:updaterequest:infostore:uptodatetickets:updatedtickets:events:errors:  response passed cup validation.
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc20795 14.17.42.14:14000
+[CLS] arpt: 682407.704265: wl0: wl_update_tcpkeep_seq: original seq: 1181052579  ack: 1862377178  win size: 4096
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-03 22:01:36 +0000 confidence=1 from=/ 
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! neteasemusic.17988 tc9008 103.251.128.144:80
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-04 00:25:15 +0000 confidence=1 from=/ 
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc21242 119.81.102.227:80
+[CLS] arpt: 683604.474196: iopmpowersource information: onsleep   sleeptype: standby   'externalconnected': no  'timeremaining': 578 
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc21519 184.105.67.74:443
+[CLS] network: requery  0  0  0  0  320  items  fqueryretries  1  flastretrytimestamp  520841203.7
+[CLS] network: requery  0  0  0  0  320  items  fqueryretries  1  flastretrytimestamp  520871064.1
+[CLS]  10:13:05.044  <<<< crabs >>>> crabsflumehostavailable:  0x7f961cf08cf0  byte flume reports host available again.
+[CLS] network: requery  0  0  0  0  300  items  fqueryretries  0  flastretrytimestamp  520899307.1
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-05 03:51:50 +0000 confidence=1 from=/ 
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc22491 203.205.142.158:8080
+[CLS]  00:29:04.085  <<<< crabs >>>> crabswaitforload:  0x7fbc7ac683a0  wait time out - -1001 
+[CLS] network: requery  0  0  0  0  284  items  fqueryretries  0  flastretrytimestamp  520934130.6
+[CLS] failed to stop a scan - central is not powered on: 4
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc22930 125.39.240.34:14000
+[CLS] network: requery  0  0  0  0  252  items  fqueryretries  0  flastretrytimestamp  520989480.3
+[CLS]  17:22:36.133  <<<< crabs >>>> crabsflumehostavailable:  0x7f961cf08cf0  byte flume reports host available again.
+[CLS] could discard act 242131 inact 107014 purgeable 254830 spec 128285 cleaned 0
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-06 03:44:24 +0000 confidence=1 from=/ 
+[CLS] could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0
+[CLS] ****  iobluetoothhostcontrollerusbtransport  start  -- completed -- result = true -- 0xb000 ****
+[CLS] network: requery  0  0  0  0  299  items  fqueryretries  0  flastretrytimestamp  521006902.2
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-06 09:32:10 +0000 confidence=1 from=/ 
+[CLS] network: requery  0  0  0  0  302  items  fqueryretries  0  flastretrytimestamp  521048292.6
+[CLS] network: requery  0  0  0  0  291  items  fqueryretries  0  flastretrytimestamp  521048893.3
+[CLS] - sfllistmanager notifychanges:tolistwithidentifier:  notified of item changes to list with identifier com.apple.lssharedfilelist.recentapplications
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc24039 112.90.78.169:8080
+[CLS] 2017-07-06 14:57:16.261 ksfetch 37061/0x7fff79824000   lvl=2  kshelperreceivealldata kshelpertool read 1999 bytes from stdin.
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-06 23:12:15 +0000 confidence=1 from=/ 
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc24283 119.81.102.227:80
+[CLS] network: requery  0  0  0  0  302  items  fqueryretries  0  flastretrytimestamp  521080983.6
+[CLS] network: requery  0  0  0  0  300  items  fqueryretries  0  flastretrytimestamp  521081581.2
+[CLS] arpt: 744319.484045: wl0: wl_update_tcpkeep_seq: original seq: 1092633597  ack: 2572586285  win size: 4096
+[CLS] network: requery  0  0  0  0  291  items  fqueryretries  0  flastretrytimestamp  521092126.3
+[CLS] failed to connect  outlet from  to : missing setter or instance variable
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-07 16:09:36 +0000 confidence=1 from=/ 
+[CLS] 2017-07-07 10:54:41.296 ksfetch 37925/0x7fff79824000   lvl=2  kshelperreceivealldata kshelpertool read 1926 bytes from stdin.
+[CLS] network: requery  0  0  0  0  294  items  fqueryretries  0  flastretrytimestamp  521144227.4
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-08 02:21:28 +0000 confidence=1 from=/ 
+[CLS] network: requery  0  0  0  0  328  items  fqueryretries  0  flastretrytimestamp  521177334.4
+[CLS]  ql  no sandbox token for request <qlthumbnailrequest vmware-usbarb-25037.log>  it will probably fail
+[CLS] failed to connect  outlet from  to : missing setter or instance variable
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-08 05:32:31 +0000 confidence=1 from=/ 
+[CLS] did discard act 12083 inact 17640 purgeable 20264 spec 28635 cleaned 0
+[CLS] __42- netclientconnection evaluatecrazyivan46 _block_invoke ci46 - hit by torpedo! qq.10018 tc25995 121.51.36.148:443
+[CLS] ****  iobluetoothhostcontrollerusbtransport  start  -- completed -- result = true -- 0x2800 ****
+[CLS] - uabestappsuggestionmanager notifybestappchanged:type:options:bundleidentifier:activitytype:dynamicidentifier:when:confidence:devicename:deviceidentifier:devicetype:   uasuggestedactiontype=0 / opts= when=2017-07-08 14:29:50 +0000 confidence=1 from=/ 

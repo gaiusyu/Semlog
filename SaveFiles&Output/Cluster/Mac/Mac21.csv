@@ -1,0 +1,6 @@
+[CLS] pages 1471315  wire 491253  act 449877  inact 3  cleaned 0 spec 5  zf 23  throt 0  compr 345876  xpmapped 40000
+[CLS] pages 554018  wire 418692  act 40000  inact 0  cleaned 0 spec 0  zf 0  throt 0  compr 112  xpmapped 40000
+[CLS] 2017-07-03 20:25:13.378 googlesoftwareupdateagent 33847/0x7000002a0000   lvl=2  - ksupdatecheckaction performaction  ksupdatecheckaction starting update check for ticket: {} using server: <ksomahaserver:0x100248090 engine=<ksupdateengine:0x1007249c0> >
+[CLS] pages 1401204  wire 544128  act 416065  inact 0  cleaned 0 spec 3  zf 25  throt 0  compr 266324  xpmapped 40000
+[CLS] pages 1418325  wire 548641  act 438090  inact 2  cleaned 0 spec 12  zf 30  throt 0  compr 254881  xpmapped 40000
+[CLS] 2017-07-07 10:54:41.875 googlesoftwareupdateagent 37924/0x7000002a0000   lvl=2  - ksupdatecheckaction performaction  ksupdatecheckaction starting update check for ticket: {} using server: <ksomahaserver:0x100243f20 engine=<ksupdateengine:0x1007161b0> >

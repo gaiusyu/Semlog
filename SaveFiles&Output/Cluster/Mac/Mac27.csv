@@ -1,0 +1,1 @@
+[CLS] configuration notice: asl module "com.apple.authkit.osx.asl" sharing output destination "/var/log/accounts" with asl module "com.apple.accounts". output parameters from asl module "com.apple.accounts" override any specified in asl module "com.apple.authkit.osx.asl".

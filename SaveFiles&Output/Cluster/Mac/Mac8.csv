@@ -1,0 +1,176 @@
+[CLS] mdns_deregisterinterface: frequent transitions for interface awdl0 
+[CLS] arpt: 621241.634070: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] mdns_deregisterinterface: frequent transitions for interface awdl0 
+[CLS] arpt: 621389.379319: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] mdns_deregisterinterface: frequent transitions for interface en0 
+[CLS] mdns_registerinterface: frequent transitions for interface en0 
+[CLS] arpt: 626126.086246: wl0: mdns: ipv4 addr: 10.105.160.95
+[CLS] setting btcoex config: enable_2g:1  profile_2g:0  enable_5g:1  profile_5g:0
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] setting btcoex config: enable_2g:1  profile_2g:0  enable_5g:1  profile_5g:0
+[CLS] rtc: maintenance 2017/7/1 19:52:56  sleep 2017/7/1 19:40:18
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] arpt: 627141.702095: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] en0: 802.11d country code set to 'x3'.
+[CLS] rtc: maintenance 2017/7/1 21:52:00  sleep 2017/7/1 21:39:51
+[CLS] network changed: v4 v6 dns! proxy smb
+[CLS] 12:15:23.005 : discoverable mode changed to off
+[CLS] arpt: 645957.322055: wl0: setup_keepalive: local ip: 10.105.163.202
+[CLS] mdns_registerinterface: frequent transitions for interface awdl0 
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] arpt: 661708.530713: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS] network changed: v4 v6 dns! proxy smb
+[CLS] setting btcoex config: enable_2g:1  profile_2g:0  enable_5g:1  profile_5g:0
+[CLS] in6_unlink_ifa: ipv6 address 0x77c9114551ab23ab has no prefix
+[CLS] network changed: v4 v6 dns! proxy smb
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] arpt: 661915.168735: wl0: mdns: ipv6 addr: 2607:f140:6000:8:4de9:a101:c96c:f28b
+[CLS] arpt: 662096.028575: wl0: mdns: ipv6 addr: 2607:f140:6000:8:4de9:a101:c96c:f28b
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] arpt: 671682.028482: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] in6_unlink_ifa: ipv6 address 0x77c9114551ab225b has no prefix
+[CLS] arpt: 672405.912863: wl0: mdns: ipv6 addr: 2607:f140:400:a01b:c6b3:1ff:fecd:467f
+[CLS] mdns_deregisterinterface: frequent transitions for interface en0 
+[CLS] arpt: 672487.663921: wl0: mdns: ipv6 addr: 2607:f140:400:a01b:c6b3:1ff:fecd:467f
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] arpt: 673002.849007: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] 08:21:18.004 : discoverable mode changed to off
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] enabling pid=30298 for plug-in com.apple.ncplugin.weather 131fe7ed-87f7-471d-8797-c11107688df7 /system/library/coreservices/weather.app/contents/plugins/com.apple.ncplugin.weather.appex
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] arpt: 682406.173418: wl0: setup_keepalive: remote ip: 17.249.28.77
+[CLS] rtc: maintenance 2017/7/3 21:47:58  sleep 2017/7/3 21:35:20
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] arpt: 682634.998705: wl0: setup_keepalive: remote ip: 17.249.28.93
+[CLS] network changed: v4 v6 dns proxy smb
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] hibernate_flush_memory: buffer_cache_gc freed up 13202 wired pages
+[CLS] hibernate_flush_memory: buffer_cache_gc freed up 3349 wired pages
+[CLS] mdns_deregisterinterface: frequent transitions for interface en0 
+[CLS] arpt: 683623.036953: wl0: setup_keepalive: remote ip: 17.249.12.155
+[CLS] en0: 802.11d country code set to 'us'.
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] checking icdp status for dsid 874161398 
+[CLS] arpt: 698150.103985: wl0: setup_keepalive: remote ip: 17.249.12.144
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] arpt: 698348.781411: wl0: mdns: ipv6 addr: 2607:f140:400:a01b:1c57:7ef3:8f8e:5a10
+[CLS] arpt: 698398.428268: wl0: setup_keepalive: remote ip: 17.249.12.88
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] arpt: 698596.169927: wl0: setup_keepalive: local ip: 10.142.110.255
+[CLS] arpt: 698894.284410: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS] arpt: 699300.508954: wl0: setup_keepalive: local ip: 10.105.162.105
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] arpt: 699815.080622: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS] en0: 802.11d country code set to 'us'.
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] network changed: v4 v6 dns! proxy smb
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] arpt: 700311.376442: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] en0: 802.11d country code set to 'x3'.
+[CLS] mdns_registerinterface: frequent transitions for interface en0 
+[CLS] setting btcoex config: enable_2g:1  profile_2g:0  enable_5g:1  profile_5g:0
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] arpt: 700626.024536: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] arpt: 700863.801551: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] arpt: 700919.494551: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] arpt: 712604.204993: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] arpt: 712915.870808: wl0: mdns: ipv4 addr: 10.105.162.105
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] arpt: 713493.575563: wl0: setup_keepalive: remote ip: 17.249.28.75
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] arpt: 720413.304306: wl0: setup_keepalive: remote ip: 17.249.12.81
+[CLS] hibernate_newruntime_map time: 0 ms  iopolledfilepollersopen  ml_get_interrupts_enabled 0
+[CLS] setting btcoex config: enable_2g:1  profile_2g:0  enable_5g:1  profile_5g:0
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] arpt: 724509.898718: wl0: mdns: ipv4 addr: 10.105.160.226
+[CLS] network changed: v4 v6 dns! proxy smb
+[CLS] db error: 1 "no such table: tb_c2cmsg_2658655094"
+[CLS] arpt: 728046.456828: wl0: setup_keepalive: local ip: 10.142.108.38
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] arpt: 728173.580149: wl0: mdns: ipv4 addr: 10.142.108.38
+[CLS] en0: 802.11d country code set to 'x3'.
+[CLS] hibernate_newruntime_map time: 0 ms  iopolledfilepollersopen  ml_get_interrupts_enabled 0
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] network changed: v4 v6 dns! proxy smb
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] chromeexistion main strsendmsg = {"websitekey":false "commandkey":true "browserkey":true}
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] in6_unlink_ifa: ipv6 address 0x77c911454f1523ab has no prefix
+[CLS] arpt: 739481.576701: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] arpt: 739605.015490: wl0: mdns: ipv6 addr: 2607:f140:6000:8:cc53:3e31:ccd8:11d4
+[CLS] rtc: maintenance 2017/7/6 21:56:47  sleep 2017/7/6 21:44:10
+[CLS] in6_unlink_ifa: ipv6 address 0x77c911454f152b8b has no prefix
+[CLS] arpt: 740501.982555: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f
+[CLS] in6_unlink_ifa: ipv6 address 0x77c911453a6db3ab has no prefix
+[CLS] db error: 1 "no such table: tb_c2cmsg_2658655094"
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] arpt: 744589.508896: wl0: setup_keepalive: remote ip: 17.249.28.35
+[CLS] arpt: 744650.016431: wl0: mdns: ipv6 addr: 2607:f140:6000:8:f882:21d2:d1af:f093
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 2
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] arpt: 762900.518967: wl0: mdns: ipv6 addr: 2607:f140:6000:8:3065:65eb:758e:972a
+[CLS] arpt: 763490.115579: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS] arpt: 764299.017125: wl0: mdns: ipv6 addr: 2607:f140:6000:8:9cb8:f7f2:7c03:f956
+[CLS] arpt: 764361.057441: wl0: mdns: ipv6 addr: 2607:f140:6000:8:9cb8:f7f2:7c03:f956
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] rtc: maintenance 2017/7/7 17:31:21  sleep 2017/7/7 17:18:49
+[CLS] in6_unlink_ifa: ipv6 address 0x77c911453a6dbcdb has no prefix
+[CLS] network changed: v4 v6 dns! proxy smb
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS] in6_unlink_ifa: ipv6 address 0x77c911454f15210b has no prefix
+[CLS] setting btcoex config: enable_2g:1  profile_2g:0  enable_5g:1  profile_5g:0
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 3
+[CLS]  hid   atc  appledevicemanagementhideventservice::processwakereason wake reason: host 
+[CLS] applethunderboltgenerichal::earlywake - complete - took 0 milliseconds
+[CLS] dnssd_clientstub connecttoserver: connect-> no of tries: 1
+[CLS]  21:22:43.147  mv_lowlevelcheckifvideoplayableusingdecoder signalled err=-12956   at  line 1921
+[CLS] <<<< mediavalidator >>>> mv_lookupcodecsupport: unrecognized codec 1
+[CLS] arpt: 783790.553857: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+[CLS] in6_unlink_ifa: ipv6 address 0x77c911454f1523ab has no prefix
+[CLS] mdns_registerinterface: frequent transitions for interface en0 
+[CLS] db error: 1 "no such table: tb_c2cmsg_2909288299"
+[CLS] in6_unlink_ifa: ipv6 address 0x77c911454f1528eb has no prefix
+[CLS] setting btcoex config: enable_2g:1  profile_2g:0  enable_5g:1  profile_5g:0
+[CLS] applethunderboltgenerichal::earlywake - complete - took 1 milliseconds
+[CLS]     arranged view frame: {{0  0}  {260  877}}
+[CLS] arpt: 790564.863081: wl0: mdns: ipv6 addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
