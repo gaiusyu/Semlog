@@ -26,9 +26,4 @@ For the parsers compared in our experiment, we reproduce the code in https://git
 
 paper link: https://arxiv.org/pdf/1811.03509.pdf.
 
-## Results of the experiment in our paper (parsing accuracy)
-
-![image](https://user-images.githubusercontent.com/84389256/171177568-d01f11cc-9c71-462b-a798-d5ad42dd0039.png)
-
-![image](https://user-images.githubusercontent.com/84389256/171178704-0246cacf-de8e-4d11-8b49-a9759f005ed3.png)
 
