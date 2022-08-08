@@ -1,8 +1,7 @@
 # Semlog
 ## Self-Supervised Log Parsing Using Semantic Contribution Difference
 
--Submitted to ISSRE 2022 (The 33rd IEEE International Symposium on Software Reliability Engineering).
-Semlog implementation details will be made public after the paper is published.
+
 
 ![image](https://user-images.githubusercontent.com/84389256/171174096-9937a1f6-e41d-4e84-af17-989db07c9399.png)
 
@@ -17,11 +16,9 @@ Requirements: python 3.7, pytorch 1.10.1, numpy 1.21.2, scipy 1.7.3, pandas 1.3.
 
 1.pip install pytorch_pretrained_bert
 
-2.download data, and put the models into file "SaveFile&Output/modelsave/"
+2.Run "Semlog/benchmark/Semlog_benchmark.py" to get the results of Semlog directly.
 
-3.Run "Semlog/benchmark/Semlog_benchmark.py" to get the results of Semlog directly.
-
-4.Run "logparsers/*.py" to reproduce results of existing parsers
+3.Run "logparsers/*.py" to reproduce results of existing parsers
 
 The existing parser code reproduced in this paper relies on [LogPai](https://github.com/logpai).
 
