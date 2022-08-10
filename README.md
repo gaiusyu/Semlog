@@ -26,4 +26,7 @@ For the parsers compared in our experiment, we reproduce the code in https://git
 
 paper link: https://arxiv.org/pdf/1811.03509.pdf.
 
+### Experimental results
+![image](https://user-images.githubusercontent.com/84389256/183889194-605d2726-b68b-450c-bfc6-522127874195.png)
+
 
