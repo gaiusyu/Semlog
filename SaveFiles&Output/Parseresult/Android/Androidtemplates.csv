@@ -1,0 +1,180 @@
+printfreezingdisplaylogsopening app wtoken = appwindowtoken{9f4ef63 token=token{a64f992 activityrecord{de9231d u0 com.tencent.qt.qtl/.activity.info.newsdetailxmlactivity t761}}} alldrawn= false startingdisplayed = false startingmoved = false isrelaunching = false
+destroying surface surface called by com.android.server.wm.windowstateanimator.destroysurface 2060 com.android.server.wm.windowstateanimator.destroysurfacelocked 913 com.android.server.wm.windowstate.destroyorsavesurface 2201  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>
+destroying surface surface called by com.android.server.wm.windowstateanimator.destroysurface 2060 com.android.server.wm.windowstateanimator.destroysurfacelocked 913 com.android.server.wm.windowstate.removelocked 1554 com.android.server.wm.windowmanagerservice.removewindowinnerlocked 2739 com.android.server.wm.windowmanagerservice.removewindowinnerlocked 2702 com.android.server.wm.windowmanagerservice.removewindowlocked 2691 com.android.server.wm.windowmanagerservice.removewindowlocked 2560 com.android.server.wm.windowmanagerservice.removewindow 2555
+acquire lock=233570404 flags=0x1 tag="view lock" name=com.android.systemui ws=null uid=10037 pid=2227
+release lock=233570404 flg=0x0 tag="view lock" name=com.android.systemui" ws=null uid=10037 pid=2227
+release lock=226887582 flg=0x0 tag="screen frozen" name=android" ws=null uid=1000 pid=1702
+screen frozen for +1s0ms due to window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.newsdetailxmlactivity}
+interceptkeytq  <*> interactive=true keyguardactive=false policyflags=2b000002 down true canceled false
+interceptkeytq  <*> interactive=true keyguardactive=false policyflags=2b000002 down false canceled false
+skipping withexcluded false tr.intent intent {  <*>  <*> }
+ready=true policy=3 wakefulness=1  <*> uasummary=0x1 bootcompleted=true boostinprogress=false waitmodeenable=false mode=false manual=38 auto=-1 adj=0.0userid=0
+start u0 {act=com.tencent.mobileqq.action.mainactivity flg=0x14000000 cmp=com.tencent.mobileqq/.activity.splashactivity } from uid 10111 on display 0
+skipping withexcluded false tr.intent intent { flg=0x10804000 cmp=com.android.systemui/.recents.recentsactivity bnds=[264 444][920 908] }
+unable to start service intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz/com.tencent.android.tpush.service.xgpushservice } u=0 not found
+skipping  <*>  <*>  <*> u0  <*> t761}}} -- going to hide
+getrunningappprocesses caller  <*> does not hold real get tasks; limiting output
+gettasks caller  <*> does not hold real get tasks; limiting output
+application requested orientation  <*> got rotation 0 which has compatible metrics
+new process app=processrecord{6eaaf00 0 com.tencent.mobileqq qzone/u0a111} name com.tencent.mobileqq qzone euid 0
+start u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.launcherui } from uid 10112 on display 0
+visible is  <*>
+mvisiblity.getvalue is false
+visible is system.ownerinfo.show
+mvisiblity.getvalue is false
+updatedimmedactivatedhidesensitive overlap false
+updatedimmedactivatedhidesensitive overlap true
+notifyuivisibilitychanged  <*>  <*>
+shouldblocklocation running ...
+shouldblocklocation ret false
+hbm brightnessin =38
+hbm brightnessout =38
+lognotificationvisibilitychanges runinthread start
+lognotificationvisibilitychanges runinthread over
+playsoundeffect effecttype 0
+cancelnotification index  <*>
+cancelnotificationlocked remove =com.tencent.mobileqq
+applyoptionslocked unknown animationtype=0
+updatenotificationshade  <*>  <*>
+getlastaudiblestreamvolume treamtype  <*>
+getstreamvolume treamtype 5
+getdevicesforstream streamtype 3
+cleanupapplicationrecord --  <*>
+setspeakerphoneon on true
+shouldblocklocation ret true
+refreshbatteryinfo isbatterylow 23
+visible is system.call.count gt 0
+visible is system.message.count gt 0
+updateclipping isoverlap false gettoppadding=333.0  <*>
+updateclipping isoverlap true gettoppadding=333.0  <*>
+useractivitynoupdatelocked  <*>  <*>  <*> uid=1000
+rotationfororientationlw; user=0 user rotation locked
+getneighboringcellinfo calling app is com.amap.android.ams
+interceptkeybeforequeueing key  <*> result 1
+android.util.androidruntimeexception must execute in ui
+*** register callback for com.android.systemui.statusbar.policy.keyguardmonitor@712d093
+*** unregister callback for  <*>
+animatecollapsepanels flags=2 force=true delayed=true mexpandedvisible=true
+animatecollapsepanels flags=0 force=false delayed=false mexpandedvisible=true
+animatecollapsepanels flags=0 force=false delayed=false mexpandedvisible=false
+setwireddeviceconnectionstate type  <*> state 0
+activitymanagerservice attachapplication callingpid =  <*>
+cleanupapplicationrecordlocked pid  <*> restart false
+received time tick alarm; rescheduling
+process com.tencent.mobileqq qzone has died
+marking notification as seen  <*>
+activity check resid com.example.android.notepad  <*>
+action battery changed pluggedtype 0
+release  <*> flg=0x0  <*> name=android"  <*> uid=1000 pid=1702
+release  <*> flg=0x0 tag="audiomix" name=audioserver" ws=null uid=1041 pid=0
+acquire lock=189667585 flags=0x1 tag="*launch*" name=android  <*> uid=1000 pid=1702
+acquire lock=237091223 flags=0x1 tag="wiredaccessorymanager" name=android ws=null uid=1000 pid=1702
+acquire lock=86152250 flags=0x1 tag="handleaudioevent" name=android ws=null uid=1000 pid=1702
+cancelnotification cancelnotificationlocked callinguid =  <*> callingpid =  <*>
+cancelnotificationlocked called tell the app reason =  <*>
+acquire  <*> flags=0x1 tag="audiomix" name=audioserver ws=null uid=1041 pid=0
+scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.qzonewebpluginproxyservice in 1000ms
+start proc 13003 com.tencent.mobileqq qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.qzonewebpluginproxyservice
+setsystemuivisibility  <*>  <*>  <*>  <*>  <*> fullscreenstackvis=0 dockedstackvis=0 fullscreenstackbounds=rect dockedstackbounds=rect
+acquire  <*> flags=0x1 tag="rilj ack wl" name=com.android.phone ws=null uid=1001 pid=2626
+release  <*> flg=0x0 tag="rilj ack wl" name=com.android.phone" ws=null uid=1001 pid=2626
+updatelightslocked mincall =false mscreenon = true lednotification == null true
+updatelightslocked mincall =false mscreenon = true lednotification == null false
+sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227 com.android.systemui/u0a37 pkg com.android.systemui
+skipping withexcluded false tr.intent intent { act=android.intent.action.main flg=0x10840000 cmp=com.android.incallui/.incallactivity }
+getallcellinfo is blocked by permission manager . callingpackage = com.tencent.mobileqq
+getcelllocation is blocked by permission manager uid 10111 pid 28601
+c a n c e l a u t o h i d e
+s u s p e n d a u t o h i d e
+r e s u m e s u s p e n d e d a u t o h i d e
+q u e r y s o u n d e f f e c t s e n a b l e d . . .
+s c h e d u l e p e e k
+g e t r i n g t o n e p l a y e r . . .
+o n e x p a n d i n g s t a r t e d
+o n t r a c k i n g s t a r t e d
+o n e x p a n d i n g f i n i s h e d
+s e t l i g h t s o n
+r e m o v e n o t i f i c a t i o n c h i l d r e n
+c l o s e q s
+i n s t a n t c o l l a p s e
+i s m u s i c a c t i v e . . .
+i s b l u e t o o t h a 2 d p o n . . .
+i s b l u e t o o t h s c o o n . . .
+g e t m o d e . . .
+h a n d l e t i m e u p d a t e
+u n r e g i s t e r a u d i o f o c u s l i s t e n e r . . .
+a b a n d o n a u d i o f o c u s
+g e t r i n g e r m o d e . . .
+m h e a d s u p e x i s t e n c e c h a n g e d r u n n a b l e
+i s w i r e d h e a d s e t o n . . .
+s e t d a t a s o u r c e
+h a n d l e b a t t e r y u p d a t e
+destroying surface surface called by com.android.server.wm.windowstateanimator.destroydeferredsurfacelocked 942 com.android.server.wm.windowmanagerservice.performdeferreddestroywindow 3407 com.android.server.wm.session.performdeferreddestroy 225 android.view.iwindowsession$stub.ontransact 398 com.android.server.wm.session.ontransact 136 android.os.binder.exectransact 565 <bottom of call stack> <bottom of call stack>
+orientation change is complete call stopfreezingdisplaylocked
+flingtoheight vel=2849.079 expand=true target=553.0 collapsespeedupfactor=1.0 expandbecauseoffalsing=false
+flingtoheight vel=0.0 expand=false target=0.0 collapsespeedupfactor=1.0 expandbecauseoffalsing=false
+issimpinsecure msimdatas is null or empty
+activityrecord info  <*> com.tencent.mobileqq.activity.splashactivity} euid 0
+activityrecord info activityinfo{f39182 com.example.android.notepad.notepadactivity} euid 0
+activityrecord info activityinfo{80c2e70 com.tencent.mm.ui.launcherui} euid 0
+start dump calling from pid=12782 uid=1000
+cleanupapplicationrecordlocked reset pid  <*> euid 0
+killing 23484 com.android.calendar/u0a13 empty for 1810s
+updateispoweredlocked waspowered=false mispowered=false oldplugtype=0 mplugtype=0 mbatterylevel=23
+startanimation begin
+startanimation end
+cancelpeek false
+ontrackingstopped true
+onnotificationvisibilitychanged called
+onnotificationclick called
+cancelnotificationlocked 0|com.tencent.mobileqq|121|null|10111
+removenotification 0|com.tencent.mobileqq|121|null|10111
+getrecenttasks  <*>
+makeexpandedinvisible mexpandedvisible=true
+makeexpandedinvisible mexpandedvisible=false
+stopwifidisplayscanlocked record.mwifidisplayscanrequested=false
+stopwifidisplayscanlocked mwifidisplayscanrequestcount=0
+addnotification  <*>
+onnotificationexpansionchanged called
+updatecharginglocked charging=false
+apstadisabledstate what=155652
+defaultstate what=155652
+remove changed bounds; rebatching
+releasing suspend blocker "powermanagerservice.wakelocks".
+acquiring suspend blocker "powermanagerservice.wakelocks".
+animating brightness target=38 rate=200
+bad activity token android.os.binderproxy@2bd79ce
+ontouchevent  <*>  <*>  <*>
+updatelightslocked turn off notificationlight
+state.cliptopamount  <*> i 0
+registercallback not in ui.
+[phoneintfmgr] getdataenabled subid=1 phoneid=1
+[phoneintfmgr] getdataenabled subid=1 retval=true
+getrecenttasks  <*> flags=62 totaltasks=46
+scheduletimetickevent triggerattime =  <*>
+received broadcast android.intent.action.time tick
+received broadcast android.intent.action.battery changed
+pid 28601 mediaplayer destructor
+enqueuenotificationinternal pkg=com.tencent.mobileqq id=121 notification=notification
+enqueuenotificationinternal n.getkey =  <*>
+enqueuenotificationinternal pkg=com.tencent.mm id=4097 notification=notification
+onreceive action android.intent.action.battery changed
+battery changed pluggedtype 0
+java.lang.classcastexception android.os.binderproxy cannot be cast to com.android.server.am.activityrecord$token
+[hsm] stayawake false uid 10111 pid 28601
+action battery changed amp 0; volt 0
+chargingspeed wattage -1 st 5000000 --> 7500000
+disable < expand icons* alerts system info* back home recent clock navigationbar search quick settings >
+sending alarm  <*> type 3 when  <*>  <*> pendingintentrecord{e204f60 com.android.phone broadcastintent}}} repeatinterval = 0 listenertag =null
+startactivity called from non-activity context; forcing intent.flag activity new task for intent { flg=0x24000000 cmp=com.tencent.mm/.ui.launcherui }
+overlapamount  <*> previousnotificationend 0.0 newytranslation  <*> location 4 i 0 gettoppadding 333.0 getlocationonscreen  <*>
+skipping withexcluded false tr.intent intent { act=android.intent.action.view dat=file ///storage/emulated/0/tencent/qqfile recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.packageinstalleractivity }
+onintercepttouchevent motionevent { action=action down actionbutton=0 id[0]=0  <*>  <*> tooltype[0]=tool type finger buttonstate=0 metastate=0 flags=0x0 edgeflags=0x0 pointercount=1 historysize=0  <*>  <*> deviceid=3 source=0x1002 } mblocktouches=false
+onintercepttouchevent motionevent { action=action up actionbutton=0 id[0]=0  <*>  <*> tooltype[0]=tool type finger buttonstate=0 metastate=0 flags=0x0 edgeflags=0x0 pointercount=1 historysize=0  <*>  <*> deviceid=3 source=0x1002 } mblocktouches=false
+taking screenshot from surface with crop [rect] width [432] height [696] minlayer  <*> maxlayer  <*> inrotation [false] rot [0]
+the change in focus caused us to need to do a layout begin
+the change in focus caused us to need to do a layout end
+skipping withexcluded false tr.intent intent { act=com.android.contacts.action.choose sub dat=tel xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.choosesubactivity }
+cancelnotificationwithtag pid 28601 uid = 10111 tag = null pkg =com.tencent.mobileqq id  <*>
+sending alarm  <*> type 3 when  <*> pendingintent{1749923 pendingintentrecord{9600e20 android broadcastintent}}} repeatinterval = 0 listenertag =time tick
+start u0 {act=android.intent.action.main cat=[android.intent.category.launcher] flg=0x10200000  <*>  <*>  <*> 1011]} from uid 10057 on display 0

@@ -1,0 +1,50 @@
+component state change: component  <*> is in the unavailable state (hwid  <*>
+clusteraddmember (command  <*>
+risboot (command 1903)
+bootgenvmunix (command  <*>
+boot (command  <*>
+wait (command  <*>
+halt (command  <*>
+link in reset
+failed subcommands 3406
+command has completed successfully
+command has been aborted
+targeting  <*> and  <*>
+psu failure\ ambient  <*>
+linkerror event interval expired
+link errors remain current
+targeting  <*> and  <*> child of command  <*>
+boot (command 2092) error: halt asserted\ cannot continue
+targeting domains:node-d7 and nodes:node-[224\ 228\ 232]
+targeting domains:node-d[0\ 5] and nodes:node-[27\ 191]
+link error on broadcast tree  <*>
+serverfilesystem: serverfilesystem domain  <*> is full
+temperature (41c) exceeds warning threshold
+clusterfilesystem: there is no server for serverfilesystem domain  <*>
+serverfilesystem: an serverfilesystem domain panic has occurred on storage442
+niff: node  <*> detected a failed network connection on network 5.5.224.0 via interface alt0
+inconsistent nodesets  <*>  <*> <ok>  <*>  <*> <ok>  <*>  <*> <ok>  <*>  <*> <ok>
+risboot (command 1903) error: timed out while waiting for srm prompt: <abort code completed>
+fan speeds (  <*>  <*>  <*> ** **  <*>  <*> )
+clusterfilesystem: serverfilesystem domain  <*> is no longer served by node  <*>
+fan speeds (  <*> 3534  <*>  <*>  <*> 3479 )
+power/control problem
+link error
+link ok
+not responding
+configured out
+ambient  <*>
+r u n n i n g
+b l o c k e d
+a c t i v e
+n o t - r e s p o n d i n g
+s t a r t i n g
+c l o s i n g
+n o r m a l
+w a r n i n g
+c r i t i c a l
+inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>
+inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>
+niff: node  <*> has detected an available network connection on network 10.128.0.0 via interface ee0
+niff: node  <*> has detected an available network connection on network  <*> via interface alt0
+niff: node  <*> has detected an available network connection on network 10.96.0.0 via interface scip0

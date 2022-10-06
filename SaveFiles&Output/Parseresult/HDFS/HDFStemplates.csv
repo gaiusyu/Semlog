@@ -1,0 +1,16 @@
+packetresponder  <*> for block  <*> terminating
+ <*> served block  <*> to  <*>
+block* ask  <*> to delete  <*>
+block* namesystem.addstoredblock: blockmap updated:  <*> is added to  <*> size  <*>
+received block  <*> of size  <*> from  <*>
+receiving block  <*> src:  <*> dest:  <*>
+ <*> exception while serving  <*> to  <*>
+block* namesystem.allocateblock:  <*>  <*>
+verification succeeded for  <*>
+deleting block  <*> file  <*>
+block* namesystem.delete:  <*> is added to invalidset of  <*>
+10.250.15.198:50010 starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010
+block* ask 10.250.14.38:50010 to replicate blk_-7571492020523929240 to datanode 10.251.122.38:50010
+received block  <*> src:  <*> dest:  <*> of size 67108864
+block* ask  <*> to delete  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>  <*>
+block* ask 10.251.126.5:50010 to delete blk_-9016567407076718172 blk_-8695715290502978219 blk_-7168328752988473716 blk_-4355192005224403537 blk_-3757501769775889193 blk_-154600013573668394 blk_167132135416677587 blk_2654596473569751784 blk_5202581916713319258

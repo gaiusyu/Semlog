@@ -1,0 +1,6 @@
+workerenv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerenv in error state  <*>
+jk2_init() can't find child  <*> in scoreboard
+jk2_init() found child  <*> in scoreboard slot  <*>
+[client  <*> directory index forbidden by rule: /var/www/html/
+mod_jk child init 1 -2

@@ -1,0 +1,36 @@
+registered signal handlers for [term hup int]
+successfully started service 'sparkexecutoractorsystem' on port 55904.
+successfully started service 'org.apache.spark.network.netty.nettyblocktransferservice' on port 40984.
+starting executor id 5 on host mesos-slave-07
+reading broadcast variable  <*> took  <*> ms
+file output committer algorithm version is 1
+saved output of task  <*> to  <*>
+changing view acls to: yarn curi
+changing modify acls to: yarn curi
+remoting started; listening on addresses :[akka.tcp://sparkexecutoractorsystem@mesos-slave-07:55904]
+memorystore started with capacity 17.7 gb
+partition  <*> not found computing it
+mapred.tip.id is deprecated. instead use mapreduce.task.id
+mapred.task.id is deprecated. instead use mapreduce.task.attempt.id
+mapred.task.is.map is deprecated. instead use mapreduce.task.ismap
+mapred.job.id is deprecated. instead use mapreduce.job.id
+mapred.task.partition is deprecated. instead use mapreduce.task.partition
+securitymanager: authentication disabled; ui acls disabled; users with view permissions: set(yarn curi); users with modify permissions: set(yarn curi)
+slf4jlogger started
+starting remoting
+registered blockmanager
+ <*> committed
+created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4
+started reading broadcast variable  <*>
+connecting to driver: spark://coarsegrainedscheduler@10.10.34.11:48069
+successfully registered with driver
+server created on 40984
+trying to register blockmanager
+got assigned task  <*>
+found block  <*> locally
+running task  <*> in stage  <*> (tid  <*>
+block  <*> stored as bytes in memory (estimated size  <*>  <*> free  <*> kb)
+block  <*> stored as values in memory (estimated size  <*>  <*> free  <*> kb)
+finished task  <*> in stage  <*> (tid  <*>  <*> bytes result sent to driver
+input split:  <*>
+times: total  <*> boot  <*> init  <*> finish  <*>

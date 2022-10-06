@@ -1,0 +1,150 @@
+session closed for user root
+synchronized to  <*> stratum  <*>
+[ib_sm_sweep.c:1831]: ********************** new sweep ********************
+[ib_sm_sweep.c:1482]: no configuration change required
+dhcpdiscover from 00:11:43:e3:ba:c3 via eth1
+kernel time sync disabled 0041
+kernel time sync enabled 0001
+received snmp packet(s) from #34#
+centos-4 (kernel module gpg key)
+hpet id: 0xffffffff base: 0xfed00000
+lapic_nmi  <*> high edge lint[0x1])
+pci interrupt routing table  <*>
+pci root bridge [pci0] (00:00)
+using ioapic for interrupt routing
+probing pci hardware (bus 00)
+using acpi for irq routing
+direct-access ansi scsi revision: 02
+processor ansi scsi revision: 02
+(c) 2000-2002 netfilter core team
+asking for cache data failed
+assuming drive cache: write through
+using 14.318180 mhz hpet timer.
+now running on #29#'s privileges.
+started working: 1 available service
+session opened for user root by (uid 0)
+data_thread() got not answer from any  <*> datasource
+dhcprequest for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1
+trace cache: 12k uops l1 d cache: 16k
+sys_ia32.c v 1.32 2002/03/24 13:02:28 ak exp $
+apic_id  <*> version 32 address  <*> gsi  <*>
+routing cache hash table of 65536 buckets 1024kbytes
+megaraid model: ld 0 raid1 139g rev: 516a
+probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0
+scanning scsi channel 1 [virtual] for logical drives
+i8042 aux port at 0x60 0x64 irq 12
+i8042 kbd port at 0x60 0x64 irq 1
+(root) cmd (run-parts /etc/cron.hourly)
+(root) cmd (/projects/tbird/temps/get_temps  <*>
+[ib_sm_sweep.c:1455]: no topology change
+local disconnected: connection closed.
+connection lost: 'connection closed.'
+time reset +0.182379 s
+(supports s0 s4 s5)
+ioapic  <*>  <*>  <*>
+ <*> used by override.
+lapic  <*>  <*> enabled)
+local apic address 0xfee00000
+power button (ff) [pwrf]
+processor  <*> (supports c1)
+physical processor id:  <*>
+registered protocol family  <*>
+transparent bridge - 0000:00:1e.0
+using mmconfig at e0000000
+using configuration type 1
+starting in permissive mode
+mounted root (ext2 filesystem).
+initializing netlink socket (disabled)
+4.1.0-ioctl (2003-12-10) initialised: #36#@#37#
+allocating divert_blk for  <*>
+v2.0:usb hid core driver
+no floppy controllers found
+installing public key data
+fw version:[516a] bios version:[h418]
+lsi logic megaraid driver
+sda1 sda2 sda3 sda4
+registering secondary module capability
+syslog-ng version 1.6.7 starting
+detected 3591.360 mhz processor.
+using hpet based timekeeping.
+creating topspin /dev entries:
+registered new driver  <*>
+mounting nfs filesystems: succeeded
+mounting other filesystems: failed
+unable to qualify my own domain name <*>) -- using short name
+assuming 33mhz system bus speed for pio modes; override with idebus xx
+error: bind to port 22 on 0.0.0.0 failed: address already in use.
+device: /dev/sda temperature changed -2 celsius to 26 celsius since last report
+ <*> from root size  <*> class 0 nrcpts 1 msgid  <*> relay #7#@localhost
+pci interrupt link [lnkb] (irqs 3 4 5 6 7 10 *11 12)
+root label / initrd /x86_64/initrd-2.6.9-5.0.5.el-lustre-1.4.2-perfctr-admin console tty0 console ttys0 19200 fastboot boot_image /x86_64/vmlinuz-2.6.9-5.0.5.el-lustre-1.4.2-perfctr
+ <*> to root ctladdr root (0/0) delay  <*> xdelay 00:00:00 mailer relay pri  <*> relay [127.0.0.1] [127.0.0.1] dsn 4.0.0 stat deferred: connection refused by [127.0.0.1]
+dhcpoffer on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1
+dhcpack on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1
+pci hot plug pci core version: 0.5
+using software bounce buffering for io (swiotlb)
+ps/2 mouse device common for all mice
+hash tables configured (established 262144 bind 65536)
+pe/pv model: 1x2 scsi bp rev: 1.0
+not allocating divert_blk for non-ethernet device lo
+not allocating divert_blk for non-ethernet device sit0
+wait for ready failed before probe
+unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda
+md driver 0.90.0 max_md_devs 256 md_sb_disks 27
+probe of vesafb0 failed with error -6
+dhcpdiscover from 00:11:43:e3:ba:c3 via eth1: network a_net: no free leases
+ <*> (v001 dell pe bkc 0x00000001 msft  <*> @  <*>
+eth0: e1000_watchdog: nic link is up 1000 mbps full duplex
+xinetd version 2.3.13 started with libwrap loadavg options compiled in.
+start: tftp pid 16563 from 10.100.4.251
+rsdp (v000 dell ) @ 0x00000000000fd650
+intel(r) xeon(tm) cpu 3.60ghz stepping 03
+mounted filesystem with ordered data mode.
+compressed image found at block 0
+ <*> e1000_probe: intel(r) pro/1000 network connection
+user #29# coming from #30# authenticated.
+server listening on :: port 22.
+changing permissions on special file /dev/logsurfer
+dhcprequest for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.
+pci interrupt  <*> -> gsi  <*> (level low) -> irq  <*>
+cannot open file /dev/logsurfer for writing (no such file or directory)
+rrd_update  <*>  <*> illegal attempt to update using time  <*> when last update time is  <*> (minimum one second step)
+my unqualified host name <*>) unknown; sleeping for retry
+int_src_ovr (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+int_src_ovr (bus 0 bus_irq 9 global_irq 9 high level)
+#38#-rh1 (release date: fri dec 10 19:02:14 est 2004)
+#39# (release date: mon sep 27 22:15:07 edt 2004)
+scanning scsi channel 0 [phy 0] for non-raid devices
+warning: we failed to resolve data source name <*>
+warning: we failed to resolve trusted host name <*>
+reading included configuration file:  <*> [file  <*> [line  <*>
+interpreter enabled
+autorun ...
+v2.0 (20020519)
+removing  <*>
+pci interrupt link [lnka] (irqs 3 4 5 6 7 10 11 12) *14
+pci interrupt link [lnkc] (irqs 3 4 5 6 7 10 11 12) *15
+pci interrupt link  <*> (irqs 3 4 5 6 7 10 11 12) *0 disabled.
+subsystem revision 20040816
+l2 cache: 2048k
+colour vga+ 80x25
+disabled at runtime.
+registering netfilter hooks
+unregistering netfilter hooks
+disk quotas dquot_6.5.1
+rng not detected
+... autorun done.
+autodetecting raid arrays.
+rpc.statd startup succeeded
+portmap startup succeeded
+starting ts_fixup: succeeded
+version 1.0.6 starting
+syslog-ng startup succeeded
+connection from "#28#"
+gmetad startup succeeded
+xinetd startup succeeded
+i n i t i a l i z i n g .
+i n i t i a l i z e d
+p a s s e d .
+s u c c e e d e d
+rrd_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step)

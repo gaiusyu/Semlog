@@ -1,4 +1,5 @@
 import datetime
+import operator
 
 from pytorch_pretrained_bert import BertTokenizer
 import math
@@ -930,23 +931,21 @@ def Parse_with_scrub1(type, data, delimiter):  ###########根据日志format 得
         else:
             print("ok")
 
-        sentences = sentences_group
-        group_stage1 = parsing_to_group(sem_fc, sentences, type, group, group_stage1,delimiter)  #语义贡献分数，日志语句，属于什么系统，长度，更新的词典
+        sente = sentences_group
+        group_stage1 = parsing_to_group(sem_fc, sente, type, group, group_stage1,delimiter)  #语义贡献分数，日志语句，属于什么系统，长度，更新的词典
     # 中间写代码
     # end = timeit.default_timer()
     # print('STAGE 2: %s Seconds' % (end - starttime))
     template_set, parse_result = template_Abstraction(group_stage1, type)
-    with open('../SaveFiles&Output/Parseresult/' + str(type) + '/' + str(type) + 'benchmark.csv', 'w',
-              encoding='UTF-8') as f:
-        for st_res in parse_result:
-            f.write(str(st_res))
-            f.write('\n')
-        f.close()
-    print('ok')  #########################evaulate result#########################################d#
+    tem_num=sentences.copy()
+    for s in parse_result:
+        tem_num[int(s[0])]=s[len(s)-1]
+        sentences[int(s[0])]=s[len(s)-2]
+   #########################evaulate result#########################################d#
     end_time=datetime.datetime.now()
     print("template extraction model =" +str(end_time-start_time))
     ac = get_ParingAccuracy(type, parse_result)
-    return ac
+    return ac,sentences,tem_num,template_set
 
 
 def find_delete(list, token_l):

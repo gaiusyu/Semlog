@@ -1,0 +1,30 @@
+reverse mapping checking getaddrinfo for  <*>  <*> failed - possible break-in attempt!
+pam 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser=  <*> user=root
+invalid user  <*> from  <*>
+connection closed by  <*> [preauth]
+input userauth request: invalid user  <*> [preauth]
+did not receive identification string from  <*>
+pam unix(sshd:session): session closed for user fztu
+pam unix(sshd:auth): check pass; user unknown
+pam unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser=  <*>
+error: received disconnect from 195.154.37.122: 3: com.jcraft.jsch.jschexception: auth fail [preauth]
+failed password for invalid user  <*> from  <*> port  <*> ssh2
+failed none for invalid user  <*> from  <*> port  <*> ssh2
+pam unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser=  <*>  <*>
+pam 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180
+received disconnect from  <*> 11: closed due to user request. [preauth]
+pam 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser=  <*>
+pam 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151
+pam 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151
+pam 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.4.203.64
+received disconnect from  <*> 11: bye bye [preauth]
+received disconnect from 119.137.62.142: 11: disconnected by user
+disconnecting: too many authentication failures for root [preauth]
+disconnecting: too many authentication failures for admin [preauth]
+pam service(sshd) ignoring max retries;  <*> > 3
+fatal: write failed: connection reset by peer [preauth]
+failed password for  <*> from  <*> port  <*> ssh2
+accepted password for fztu from 119.137.62.142 port 49116 ssh2
+pam unix(sshd:session): session opened for user fztu by (uid=0)
+message repeated 5 times: [ failed password for root from  <*> port  <*> ssh2]
+error: received disconnect from 103.99.0.122: 14: no more user authentication methods available. [preauth]

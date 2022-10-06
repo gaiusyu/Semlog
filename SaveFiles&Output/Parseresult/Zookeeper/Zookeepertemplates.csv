@@ -1,0 +1,52 @@
+notification time out:  <*>
+send worker leaving thread
+server environment:java vendor=oracle corporation
+ticktime set to 2000
+maxsessiontimeout set to -1
+minsessiontimeout set to -1
+reading snapshot /var/lib/zookeeper/version-2/snapshot b00000084
+received connection request /10 10 34  <*>
+interrupted while waiting for message on queue
+expiring session  <*> timeout of  <*> exceeded
+******* goodbye /10 10 34  <*> ********
+following - leader election took -  <*>
+connection broken for id  <*> my id =  <*> error =
+client attempting to renew session  <*> at /10 10 34  <*>
+client attempting to establish new session at /10 10 34  <*>
+my election bind port: 0 0 0 0/0 0 0 0:3888
+interrupting sendworker
+unexpected exception:
+sending diff
+closed socket connection for client /10 10 34  <*> which had sessionid  <*>
+established session  <*> with negotiated timeout  <*> for client /10 10 34  <*>
+server environment:java class path=/etc/zookeeper/conf:/usr/share/java/jline jar:/usr/share/java/log4j-1 2 jar:/usr/share/java/xercesimpl jar:/usr/share/java/xmlparserapis jar:/usr/share/java/netty jar:/usr/share/java/slf4j-api jar:/usr/share/java/slf4j-log4j12 jar:/usr/share/java/zookeeper jar
+caught end of stream exception
+autopurge snapretaincount set to 3
+autopurge purgeinterval set to 0
+snapshotting:  <*> to /var/lib/zookeeper/version-2/snapshot  <*>
+shutdown of request processor complete
+getting a snapshot from leader
+accepted socket connection from /10 10 34  <*>
+new election my id = 1 proposed zxid=0x700000000
+unexpected exception causing shutdown while sock still open
+connection request from old client /10 10 34  <*> will be dropped if server is in r-o mode
+server  <*>  <*>
+revalidating client:  <*>
+starting quorum peer
+first is 0x0
+cannot open channel to  <*> at election address /10 10 34  <*>
+follower sid: 3 : info : org apache zookeeper server quorum quorumpeer$quorumserver@33557fe4
+have quorum of supporters; starting up and setting last processed zxid: 0xb00000000
+processed session termination for sessionid:  <*>
+l o o k i n g
+f o l l o w i n g
+have smaller server identifier so dropping the connection: (2 1)
+server environment:zookeeper version=3 4 5--1 built on 06/10/2013 17:26 gmt
+notification: 3 (n leader) 0x700000197 (n zxid) 0x1 (n round) leading (n state) 3 (n sid) 0x7 (n peerepoch) looking (my state)
+notification:  <*> (n leader)  <*> (n zxid)  <*> (n round) looking (n state)  <*> (n sid)  <*> (n peerepoch)  <*> (my state)
+notification:  <*> (n leader)  <*> (n zxid)  <*> (n round) looking (n state)  <*> (n sid)  <*> (n peerepoch)  <*> (my state)
+notification: 2 (n leader) 0xa0000009a (n zxid) 0x1 (n round) following (n state) 1 (n sid) 0xa (n peerepoch) leading (my state)
+notification: 3 (n leader) 0x100001564 (n zxid) 0x3 (n round) following (n state) 3 (n sid) 0x2 (n peerepoch) following (my state)
+closed socket connection for client /10 10 34  <*> (no session established for client)
+exception causing close of session 0x0 due to java io ioexception: zookeeperserver not running
+got user-level keeperexception when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a error path:/home/curi/ zookeeper error:keepererrorcode = nodeexists for /home/curi/ zookeeper

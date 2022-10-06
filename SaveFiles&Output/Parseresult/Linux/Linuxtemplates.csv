@@ -1,0 +1,117 @@
+authentication failure; logname uid 0 euid 0 tty nodevssh ruser rhost  <*>
+authentication failure; logname uid 0 euid 0 tty :0 ruser rhost
+check pass; user unknown
+imps2: auto-detected intellimouse ps/2
+root login on tty2
+removing device node  <*>
+creating device node  <*>
+bios-provided physical ram map:
+detected 731.219 mhz processor.
+console: colour vga+ 80x25
+security scaffold v1.0.0 initialized
+cpu: l2 cache: 256k
+checking 'hlt' instruction... ok.
+acpi: subsystem revision 20040326
+pci: probing pci hardware
+transparent bridge - 0000:00:1e.0
+setting network parameters: succeeded
+vfs: disk quotas dquot_6.5.1
+selinux: registering netfilter hooks
+authentication failure; logname uid 0 euid 0 tty nodevssh ruser rhost  <*> user root
+authentication failure; logname uid 0 euid 0 tty nodevssh ruser rhost  <*> user guest
+authentication failure; logname uid 0 euid 0 tty nodevssh ruser rhost 212.0.132.20 user test
+memory: 125312k/129720k available (1540k kernel code 3860k reserved 599k data 144k init 0k highmem)
+session opened for user  <*> by (uid  <*>
+session opened for user root by login(uid 0)
+pci: using irq router piix/ich [8086/2410] at 0000:00:1f.0
+pci_hotplug: pci hot plug pci core version: 0.5
+session closed for user  <*>
+using tsc for high-res timesource
+alert exited abnormally with [1]
+received snmp packet(s) from 67.170.148.126
+bios-e820:  <*> -  <*> (usable)
+bios-e820:  <*> -  <*> (reserved)
+on node 0 totalpages: 32430
+mapped 4g/4g trampoline to ffff3000.
+calibrating delay loop... 1445.88 bogomips
+selinux: starting in permissive mode
+selinux_register_security: registering secondary module capability
+intel machine check architecture supported.
+initializing random number generator: succeeded
+posix conformance testing by unifix
+net: registered protocol family 16
+usbcore: registered new driver  <*>
+pci: using configuration type 1
+audit: initializing netlink socket (disabled)
+hci daemon ver 2.4 started
+total hugetlb memory allocated 0
+bringing up loopback interface: succeeded
+isapnp: scanning for pnp cards...
+real time clock driver v1.12
+connection from  <*>  <*> at  <*>  <*>  <*>  <*> 2005
+dentry cache hash table entries: 16384 (order: 4 65536 bytes)
+user unknown timed out after 900 seconds at sat jun 18 02:23:10 2005
+cupsd shutdown succeeded
+cupsd startup succeeded
+kerberos authentication failed
+*** info [mice.c(1766)]:
+couldn't authenticate user
+syslogd startup succeeded
+0mb highmem available.
+126mb lowmem available.
+zapping low mappings.
+klogd startup succeeded
+irqbalance startup succeeded
+dmi 2.3 present.
+built 1 zonelists
+portmap startup succeeded
+version 1.0.6 starting
+rpc.statd startup succeeded
+capability lsm initialized
+rpc.idmapd startup succeeded
+mtrr: v2.0 (20020519)
+acpi: interpreter disabled.
+starting pcmcia: succeeded
+hcid startup succeeded
+sdpd startup succeeded
+sdpd v1.5 started
+initializing cryptographic api
+r e s t a r t .
+authentication failed from 163.27.187.39 (163.27.187.39): permission denied in replay cache code
+acpi disabled because your bios is from 2000 and too old
+pci: pci bios revision 2.10 entry at 0xfc0ce last bus 1
+authentication failed from 163.27.187.39 (163.27.187.39): software caused connection abort
+warning: can't get client address: connection reset by peer
+kernel command line: ro root label / rhgb quiet
+pid hash table entries: 512 (order 9: 4096 bytes)
+there is already a security framework initialized register_security failed.
+inode-cache hash table entries: 8192 (order: 3 32768 bytes)
+mount-cache hash table entries: 512 (order: 0 4096 bytes)
+cpu: l1 i cache: 16k l1 d cache: 16k
+linux plug and play support v0.97 (c) adam belay
+acpi: acpi tables contain no pci irq routing entries
+apm: bios version 1.2 flags 0x03 (driver version 1.16ac)
+dquot-cache hash table entries: 1024 (order 0 4096 bytes)
+anonymous ftp login from 84.102.20.2 (anonymous)
+notify question section contains no soa
+klogd 1.4.1 log source /proc/kmsg started.
+dma zone: 4096 pages lifo batch:1
+normal zone: 28334 pages lifo batch:6
+highmem zone: 0 pages lifo batch:1
+failure registering capabilities with the kernel
+pci: invalid acpi-pci irq routing table
+pci: probing pci hardware (bus 00)
+getpeername (ftpd): transport endpoint is not connected
+you can enable it with acpi force
+cpu 0 irqstacks hard 02345000 soft 02344000
+intel machine check reporting enabled on cpu#0.
+cpu: intel pentium iii (coppermine) stepping 06
+enabling fast fpu save and restore... done.
+enabling unmasked simd fpu exception support... done.
+isapnp: no plug & play device found
+linux agpgart interface v0.100 (c) dave jones
+linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (red hat linux 3.3.3-7)) #1 sat may 8 09:04:50 edt 2004
+initializing cpu#0
+selinux: initializing.
+kernel.core_uses_pid 1
+audit(1122475266.4294965305:0): initialized

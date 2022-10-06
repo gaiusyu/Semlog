@@ -1,0 +1,50 @@
+loaded servicing stack v6.1.7601.23505 with core: c:\windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll
+sqm: initializing online with windows opt-in: false
+sqm: requesting upload of all unsent reports.
+expecting attribute name [hresult 0x800f080d - cbs_e_manifest_invalid_item]
+ <*> wcpinitialize called
+trustedinstaller service starts successfully.
+ <*> csi perf trace:
+warning: unrecognized packageextended attribute.
+scavenge: begin csi store
+scavenge: completed disposition: 0x1
+reboot mark refs: 0
+offline image is: read-only
+00000008@2016/9/28:16:00:46.635 populatecomponentfamilieskey - begin
+00000009@2016/9/28:16:01:03.072 populatecomponentfamilieskey - end
+ending trustedinstaller initialization.
+starting trustedinstaller initialization.
+starting trustedinstaller finalization.
+ending trustedinstaller finalization.
+starting the trustedinstaller main loop.
+ending the trustedinstaller main loop.
+startup processing thread terminated normally
+ <*> csi store  <*> initialized
+00000010@2016/9/27:20:40:54.787 csi transaction @0x47e9e0 destroyed
+idle processing thread terminated normally
+unloading offline registry hive:  <*>
+sqm: cleaning up report files older than 10 days.
+nonstart: checking to ensure startup processing was not required.
+failed to get next element [hresult 0x800f080d - cbs_e_manifest_invalid_item]
+failed to internally open package. [hresult 0x800f0805 - cbs_e_invalid_package]
+0000000c icsitransaction::commit calling istorependingtransaction::apply - coldpatching false applyflags 7
+disabling manifest caching because the image is not writeable.
+sqm: failed to start upload with file pattern: c:\windows\servicing\sqm\*_std.sqm flags: 0x2 [hresult 0x80004005 - e_fail]
+sqm: failed to start standard sample upload. [hresult 0x80004005 - e_fail]
+sqm: queued 0 file for upload with pattern: c:\windows\servicing\sqm\*_all.sqm flags: 0x6
+read out cached package applicability for package:  <*> applicablestate:  <*>  <*>
+sqm: warning: failed to upload all unsent reports. [hresult 0x80004005 - e_fail]
+no startup processing required trustedinstaller service was not set as autostart or else a reboot is still pending.
+00000004 iadvancedinstallerawarestore_resolvependingtransactions (flags 00000004 progress null phase 0 pdwdisposition  <*>
+failed to create backup log cab. [hresult 0x80070001 - error_invalid_function]
+0000000a performing 1 operations; 1 are not lock/unlock and follow:
+0000000b store coherency cookie matches last scavenge cookie skipping scavenge.
+ <*> creating nt transaction objectname [6]""
+session:  <*> initialized by client windowsupdateagent.
+reboot mark refs incremented to: 1
+session: 11152_142416105 initialized by client spp.
+ <*> created nt transaction result 0x00000000 handle  <*>
+nonstart: success startup processing not required as expected.
+scavenge: starts
+00000009@2016/9/27:20:40:53.744 csi transaction @0x47e9e0 initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]"ti6.0_0:0/"
+loading offline registry hive:  <*> into registry key  <*> from path '\\  <*>

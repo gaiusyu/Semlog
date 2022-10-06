@@ -1,0 +1,114 @@
+created mrappmaster for application appattempt_1445144423722_0020_000001
+outputcommitter set in config null
+logging to org.slf4j.impl.log4jloggeradapter(org.mortbay.log) via org.mortbay.log.slf4jlog
+jetty bound to port 62267
+connecting to resourcemanager at msra-sa-41/10.190.173.170:8030
+processing the event eventtype: job_setup
+processing the event eventtype: task_abort
+recalculating schedule headroom  <*>  <*>
+assigned container  <*> to  <*>
+size of containertokens_dob is 1
+putting shuffle token in servicedata
+auth successful for job_1445144423722_0020 (auth:simple)
+task succeeded with attempt attempt_1445144423722_0020_m_000003_0
+error writing history event: org.apache.hadoop.mapreduce.jobhistory.taskattemptunsuccessfulcompletionevent@7317849d
+ <*> failures on node minint-fnanli5.fareast.corp.microsoft.com
+executing with tokens:
+using mapred newapicommitter.
+outputcommitter is org.apache.hadoop.mapreduce.lib.output.fileoutputcommitter
+maxtaskfailurespernode is 3
+blacklistdisablepercent is 33
+maxcontainercapability: <memory:8192 vcores:32>
+yarn.client.max-cached-nodemanagers-proxies : 0
+kind: yarn_am_rm_token service: ident: (appattemptid { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptid: 1 } keyid: -127633188)
+registering class  <*> for class  <*>
+scheduled snapshot period at 10 second(s).
+job_1445144423722_0020job transitioned from new to inited
+job_1445144423722_0020job transitioned from inited to setup
+job_1445144423722_0020job transitioned from setup to running
+adding protocol org.apache.hadoop.mapreduce.v2.api.mrclientprotocolpb to the server
+ipc server listener on  <*> starting
+added global filter 'safety' (class org.apache.hadoop.http.httpserver2$quotinginputfilter)
+web app /mapreduce started at 62267
+defaultspeculator.addspeculativeattempt -- we are speculating task_1445144423722_0020_m_000000
+dfsoutputstream responseprocessor exception for block bp-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731
+task cleanup failed for attempt  <*>
+default file system [hdfs://msra-sa-41:9000]
+loaded properties from hadoop-metrics2.properties
+done acknowledgement from attempt_1445144423722_0020_m_000003_0
+mrappmaster metrics system started
+using callqueue class java.util.concurrent.linkedblockingqueue
+instantiated mrclientservice at minint-fnanli5.fareast.corp.microsoft.com/10.86.169.121:62260
+ipc server responder: starting
+adding path spec:  <*>
+extract jar:file:/d:/hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-snapshot.jar!/webapps/mapreduce to c:\users\msrabi\appdata\local\temp\jetty_0_0_0_0_62267_mapreduce____.8n7xum\webapp
+resolved  <*> to /default-rack
+registered webapp guice modules
+got allocated containers  <*>
+opening proxy :  <*>
+received completed container  <*>
+num completed tasks: 1
+error in contacting rm.
+emitting job history data to the timeline server is not enabled
+adding job token for job_1445144423722_0020 to jobtokensecretmanager
+number of reduces for job job_1445144423722_0020 1
+mrappmaster launching normal non-uberized multi-container job job_1445144423722_0020.
+starting socket reader #1 for port  <*>
+ <*> task transitioned from new to scheduled
+ <*> taskattempt transitioned from new to unassigned
+ <*> taskattempt transitioned from unassigned to assigned
+ <*> taskattempt transitioned from assigned to running
+ <*> task transitioned from scheduled to running
+jvm with id:  <*> given task:  <*>
+progress of taskattempt  <*> is :  <*>
+attempt_1445144423722_0020_m_000003_0 taskattempt transitioned from running to success_container_cleanup
+attempt_1445144423722_0020_m_000003_0 taskattempt transitioned from success_container_cleanup to succeeded
+task_1445144423722_0020_m_000003 task transitioned from running to succeeded
+reduce slow start threshold reached. scheduling reduces.
+we launched 1 speculations. sleeping 15000 milliseconds.
+scheduling a redundant attempt for task task_1445144423722_0020_m_000000
+address change detected. old:  <*> new:  <*>
+ <*> taskattempt transitioned from running to fail_container_cleanup
+ <*> taskattempt transitioned from fail_container_cleanup to fail_task_cleanup
+ <*> taskattempt transitioned from fail_task_cleanup to failed
+thread thread[eventhandlingthread 5 main] threw an exception.
+added  <*> to list of failed maps
+not uberizing job_1445144423722_0020 because: not enabled; too many maps; too much input;
+error recovery for block bp-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731 in pipeline 10.86.169.121:50010 10.190.173.170:50010: bad datanode 10.190.173.170:50010
+input size for job job_1445144423722_0020 1256521728. number of splits 10
+processing the event eventtype: container_remote_launch for container  <*> taskattempt  <*>
+processing the event eventtype: container_remote_cleanup for container  <*> taskattempt  <*>
+http request log for http.requests.mapreduce is not defined
+added filter am_proxy_filter (class org.apache.hadoop.yarn.server.webproxy.amfilter.amipfilter) to context mapreduce
+added filter am_proxy_filter (class org.apache.hadoop.yarn.server.webproxy.amfilter.amipfilter) to context static
+event writer setup for jobid: job_1445144423722_0020 file: hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist
+reduce slow start threshold not met. completedmapsforreduceslowstart 1
+taskattempt:  <*> using containerid:  <*> on nm:  <*>
+container complete event for unknown container id container_1445144423722_0020_01_000012
+all maps assigned. ramping up all remaining reduces:1
+j e t t y - 6 . 1 . 2 6
+n o d e b l a c k l i s t i n g e n a b l e d : t r u e
+started httpserver2$selectchannelconnectorwithsafestartup@0.0.0.0:62267
+job_create job_1445144423722_0020
+queue: default
+ <*> vcores:1>
+launching  <*>
+attempt_start  <*>
+killing  <*>
+datastreamer exception
+upper limit on the thread pool size is 500
+the job-jar file on the remote fs is hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar
+the job-conf file on the remote fs is /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.xml
+shuffle port returned by containermanager for  <*> : 13562
+jvm with id :  <*> asked for a task
+diagnostics report from attempt_1445144423722_0020_m_000003_0: container killed by the applicationmaster.
+before scheduling:  <*>  <*>  <*>  <*> assignedreds:0  <*> completedreds:0  <*>  <*>  <*>  <*>
+after scheduling:  <*>  <*>  <*>  <*> assignedreds:0  <*> completedreds:0  <*>  <*>  <*>  <*>
+adding #0 tokens and #1 secret keys for nm use for launching container
+failed to renew lease for [dfsclient_nonmapreduce_1537864556_1] for  <*> seconds. will retry shortly ...
+getresources() for application_1445144423722_0020: ask  <*> release  <*> newcontainers  <*> finishedcontainers  <*> resourcelimit  <*>  <*> knownnms 4
+cannot assign container container: [containerid: container_1445144423722_0020_01_000012 nodeid: msra-sa-39.fareast.corp.microsoft.com:28345 nodehttpaddress: msra-sa-39.fareast.corp.microsoft.com:8042 resource: <memory:1024 vcores:1> priority: 20 token: token { kind: containertoken service: 172.22.149.145:28345 } ] for a map as either container memory less than required <memory:1024 vcores:1> or no pending map tasks - maps.isempty true
+slow readprocessor read fields took 65020ms (threshold 30000ms); ack: seqno: -2 status: success status: error downstreamacktimenanos: 0 targets: [10.86.169.121:50010 10.190.173.170:50010]
+retrying connect to server: msra-sa-41:8030. already tried 0 time(s); retry policy is retryuptomaximumcountwithfixedsleep(maxretries 10 sleeptime 1000 milliseconds)
+task:  <*> - exited : java.net.noroutetohostexception: no route to host from minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception: no route to host: no further information; for more details see: http://wiki.apache.org/hadoop/noroutetohost
+diagnostics report from  <*> error: java.net.noroutetohostexception: no route to host from minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception: no route to host: no further information; for more details see: http://wiki.apache.org/hadoop/noroutetohost

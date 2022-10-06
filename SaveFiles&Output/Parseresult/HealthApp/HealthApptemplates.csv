@@ -1,0 +1,75 @@
+onstandstepchanged  <*>
+gettodaytotaldetailsteps  <*>
+settodaytotaldetailsteps  <*>
+isscreenon true
+setwritedblastdataminute 25233979
+setwritedblastdataminute success
+thedaychanged 1514044800216
+getstepcounterstatus true
+registersensorsuccess true
+gettodaybasicstandardsteps  <*>
+getdifftotalsteps  <*>
+setdifftotalsteps 0
+onextend  <*>  <*> 0  <*>
+report  <*>  <*>  <*>  <*>
+inserthihealthdata() checkapptype 0 appid 1
+bulksavedetailhihealthdata() size  <*> totaltime  <*>
+saverealtimehealthdatasstat() size 1 totaltime 48
+initdataprivacy the dataprivacy is true
+inituserprivacy the userprivacy is true
+ifcansync not no cloud version
+setbasicstandardsteps basicstandardstep 3786 restartsteps 0
+onreceive action android.intent.action.screen_on
+processhandlebroadcastaction action android.intent.action.screen_on
+processhandlebroadcastaction action android.intent.action.time_tick
+flush sensor data
+calculatecalorieswithcache totalcalories  <*>
+calculatealtitudewithcache totalaltitude  <*>
+onreceive action android.intent.action.screen_off
+flushtempcachetodb by stand
+writedatatodb size 327
+getbinderpackagename packagename com.huawei.health
+startlistenerchange subscribelist [1]
+flush2db result success
+starttimer start autosync
+gettodaysportdata mstepsrecordmanager com.huawei.health.g.c@8a2a501
+trytorecordasbasicstepdata bwrite true
+next day steps0mlastreport7214
+setgoalnotifishownrecord 1514044800237 false
+screen status unknown think screen on
+uploadstaticstodb() onresult type 4 obj true
+checkinsertstatus stepsum or caloriesum is enough
+checkinsertstatus stepstatsum or caloriestatsum is enough
+insertcallback() onsuccess type 0 data true
+insertevent success begin 25233975 end 25233979
+alarm uploadstaticstodb totalsteps 7163calories 153367floor 240distance 5112
+uploadoneminutedatatoengine time  <*> 0  <*> 0 20002
+getappcontext() isappvalid health or wear packagename com.huawei.health
+savehealthdetaildata() deviceid 2 clientid 1 id 1
+savehealthdetaildata() saveonedetaildata fail hihealthdata 1513958400000 type  <*>
+inserthihealthdata() bulksavedetailhihealthdata fail errorcode 4 errormessage err_data_insert
+stepsyncornot appsyntimes is 0 statsynctimes is 0
+startinsertsportsync start auto sync app is 1
+inserthihealthdata() size  <*> app 1 one data type  <*> packagename com.huawei.health writestattype 0
+checkcurrentday a new day comes reset basicsynccondition currentday is 20171224 oldday is 20171223
+savestatdata() type  <*> time 1513958400000 statclient 2 who is 1
+new date 20171223 type  <*>  <*> old  <*>
+startinsertsportsync first 500 steps sync do all sync
+inserthihealthdata() end totaltime  <*>
+uploadstaticstodb failed message true
+needautosync autosyncswitch is open
+timestamp back extendreporttimestamp  <*>
+stepsyncornot appsyntimes is 0
+reload 3786 restar 0
+checkfirstsyncbytype no such data in db type is 1 devicecode is 0
+startsync hisyncoption hisyncoption{syncaction  <*> syncmethod 2 syncscope 0 syncdatatype 20000 syncmodel 2 pushaction 0} app 1 who 1
+initdataprivacy the dataprivacy switch is open start push health data
+inituserprivacy the userprivacy switch is open start push user data
+s e n d s y n c f a i l e d b r o a d c a s t
+i n i t e n v i r o u m e n t
+g e t s t e p c o u n t e r s t a t u s
+r e s t a r t s t e p c o u n t e r
+c l e a r ( )
+t r y t o r e l o a d t o d a y b a s i c s t e p s 1 5 1 4 0 4 4 8 0 0 2 2 3 | 3 7 8 6 | 0 | 0
+c l o s e n o t i f i c a t i o n . . .
+d e l e t e h e a l t h n o t i f i c a t i o n ( )

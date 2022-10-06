@@ -1,0 +1,120 @@
+instruction cache parity error corrected
+program interrupt: fp cr update.............0
+guaranteed instruction cache block touch.0
+guaranteed data cache block touch........1
+rts panic - stopping execution
+ <*> floating point alignment exceptions
+nodecard is not fully functional
+fpr29 0xffffffff ffffffff ffffffff ffffffff
+ <*> double-hummer alignment exceptions
+data tlb error interrupt
+program interrupt: illegal  <*>
+program interrupt: privileged instruction...0
+program interrupt: trap instruction.........0
+exception syndrome register:  <*>
+program interrupt: imprecise exception......0
+machine state register:  <*>
+floating point instr. enabled.....1
+program interrupt: unimplemented operation..0
+core configuration register: 0x00002000
+critical input interrupt enable...0
+lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000
+program interrupt: privileged instruction...0
+iar  <*> dear  <*>
+ce sym  <*> at  <*> mask  <*>
+size of scratchpad portion of l3.........0 (0m)
+ciod: failed to read message prefix on control stream (ciostream socket to  <*>
+ <*> ddr errors(s) detected and corrected on rank 0 symbol  <*> bit  <*>
+ciod: missing or invalid fields on line 1 of node map file  <*>
+ciod: error reading message prefix on ciostream socket to  <*> connection timed out
+generating  <*>
+store operation.............................1
+auxiliary processor.........................0
+program interrupt
+shutdown complete
+fraction rounded.........................0
+force load/store alignment...............0
+data storage interrupt
+data address: 0x00000002
+data address space................0
+instruction address:  <*>
+instruction address space.........0
+machine check: i-fetch......................0
+machine check enable..............0
+debug interrupt enable............0
+byte ordering exception.....................0
+icache prefetch  <*>
+wait state enable.................0
+special purpose registers:
+rts internal error
+debug wait enable.................0
+disable store gathering..................0
+minus normalized number..................0
+ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff
+ciod: error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: permission denied
+nfs mount failed on  <*> slept 15 seconds retrying (1)
+ciod: received signal 15 code 0 errno 0 address  <*>
+ciod: login  <*> failed: no such file or directory
+ciod: message code 0 is not 51 or 4294967295
+data cache search parity error detected. attempting to correct
+3 l3 edram error(s) (dcr 0x0157) detected and corrected
+lustre mount failed :  <*> : block_id : location
+data store interrupt caused by  <*>
+problem state (0 sup 1 usr).......0
+floating pt ex mode  <*> enable......0
+program interrupt: fp cr field .............0
+node card is not fully functional
+rts: kernel terminated for reason  <*>
+ciod: pollcontroldescriptors: detected the debugger died.
+suppressing further interrupts of same type
+dbcr0 0x00000000 dbsr 0x00000000 ccr0 0x40002000
+ciod: login chdir(/p/gb1/stella/raptor/2183) failed: input/output error
+total of  <*> ddr error(s) detected and corrected
+can not get assembly information for node card
+ciod: generated  <*> core files for program  <*>
+lustre mount failed :  <*> : point /p/gb1
+r24 0x0ffea4c8 r25 0x00000003 r26 0x0000000f r27 0xffffd000
+ciod: error loading  <*> invalid or missing program image no such file or directory
+new ido chip inserted into the database:  <*> ip  <*> v  <*> t  <*>
+prepareforservice shutting down nodecard(mlctn(r25-m1-n2) mcardsernum(203231503833343000000000594c31304b34333431303158) mlp(ff:f2:9f:16:cf:0f:00:0d:60:e9:30:f0) mip(10.2.2.80) mtype(4)) as part of service action 310
+ <*> torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over  <*> seconds
+ciod: error reading message prefix on ciostream socket to  <*> connection reset by peer
+ciod: error reading message prefix on ciostream socket to  <*> link has been severed
+ <*> tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over  <*> seconds
+ <*> ddr error(s) detected and corrected on rank 0 symbol  <*> over  <*> seconds
+ciod: error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: no child processes
+ciod: error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: bad file descriptor
+ciod: error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: block device required
+ <*> tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+ciod: error loading  <*> invalid or missing program image permission denied
+machine check dcr read timeout (mc e08x iar 0x00000000 lr 0xc00045a4)
+total of  <*> ddr error(s) detected and corrected over  <*> seconds
+ciod: error loading /g/g24/buber/yunsic/bluegene/partad.develf/taddriver.32.exe: program image too big 361544528 > 266076160
+ido chip status changed: ff:f2:9f:16:e2:23:00:0d:60:e9:1d:dc ip 10.0.0.151 v 9 t 4 status m fri jul 01 08:16:53 pdt 2005
+ido chip status changed:  <*> ip  <*> v 13 t  <*> status m  <*> aug  <*>  <*> pdt 2005
+ido chip status changed: ff:f2:9f:15:7b:e0:00:0d:60:ea:84:1f ip 10.7.0.130 v 13 t 1 status m sat sep 17 07:49:04 pdt 2005
+rts: kernel terminated for reason 1001rts: bad message header: invalid cpu type 42315 cpu 105 index 1207960804 total 2691015
+node card vpd check:  <*> node in processor card slot  <*> do not match. vpd ecid  <*> found  <*>
+ <*> torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected
+1 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected
+1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected
+ciod: error loading  <*> invalid or missing program image exec format error
+critical input interrupt (unit 0x0b bit 0x06): warning for torus y+ wire
+critical input interrupt (unit 0x0b bit 0x0b): warning for torus z- wire
+2 l3 edram error(s) (dcr 0x0157) detected and corrected over 282 seconds
+ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map
+ciod: z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map
+ciod: error reading message prefix after load_message on ciostream socket to  <*> link has been severed
+node card status: alert 0 alert 1 alert 2 alert 3 is (are) active. clock mode is low. clock select is midplane. phy jtag reset is asserted. asic jtag reset is not asserted. temperature mask is not active. no temperature error. temperature limit error latch is clear. pgood is asserted. pgood error latch is clear. mpgood is ok. mpgood error latch is clear. the 2.5 volt rail is ok. the 1.5 volt rail is ok.
+idoproxydb hit assert condition: assert expression 0 source file idotransportmgr.cpp source line 1043 function int idotransportmgr::sendpacket(idoudpmgr* bglctlpavtrace*)
+node card status: no alerts are active. clock mode is low. clock select is midplane. phy jtag reset is asserted. asic jtag reset is asserted. temperature mask is not active. no temperature error. temperature limit error latch is clear. pgood is not asserted. pgood error latch is active. mpgood is not ok. mpgood error latch is active. the 2.5 volt rail is ok. the 1.5 volt rail is ok.
+rts tree/torus link training failed: wanted: b c x+ x- y+ y- z+ z- got: b c x- y- z+ z-
+ciod: in packet from node 91.0 (r62-m1-nf-c:j03-u11) message code 2 is not 3 or 4294967295 (softheader 003b005b 00030000 00000001 00000000)
+rts: bad message header: expecting type 57 instead of type 3 (softheader 00131db8 81aa0003 00000002 00000000) psr0 00001f01 psr1 00000000 prxf 00000002 pixf 00000007
+ <*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts 0 microseconds max time in a critical input interrupt.
+error receiving packet on tree network expecting type 57 instead of type 3 (softheader  <*>  <*> 00000002 00000000) psr0  <*> psr1 00000000 prxf 00000002 pixf 00000007
+critical input interrupt (unit 0x0b bit 0x0a): warning for torus z+ wire suppressing further interrupts of same type
+critical input interrupt (unit 0x0b bit 0x17): warning for tree c1 wire suppressing further interrupts of same type
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+prepareforservice shutting down node card(mlctn(r10-m1-n2) mcardsernum(203231503833343000000000594c31304b34323934303257) mlp(ff:f2:9f:16:e0:da:00:0d:60:e9:1f:25) mip(10.1.1.164) mtype(4)) as part of service action 648
+kernel detected  <*> integer alignment exceptions  <*> iar  <*> dear  <*>  <*> iar  <*> dear  <*>  <*> iar  <*> dear  <*>  <*> iar  <*> dear  <*>  <*> iar  <*> dear  <*>  <*> iar  <*> dear  <*>  <*> iar  <*> dear  <*>  <*> iar  <*> dear  <*>

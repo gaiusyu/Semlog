@@ -1,3 +1,5 @@
+import pandas as pd
+
 from Semlog import Semlog as SB
 from Semlog import Semlog as SB
 
@@ -122,7 +124,18 @@ for dataset, setting in benchmark_settings.items():
     # Date = form['Date']
     # Time = form['Time']
     arr = content.to_numpy()
-    PA=SB.Parse_with_scrub1(dataset, arr, setting['delimiter'])
+    PA,template,template_num,template_set=SB.Parse_with_scrub1(dataset, arr, setting['delimiter'])
+    form['template']=template
+    form['template_num']=template_num
+    form.to_csv('../SaveFiles&Output/Parseresult/' + dataset + '/' + dataset + 'result.csv', index=False)
+    with open('../SaveFiles&Output/Parseresult/' + dataset + '/' + dataset + 'templates.csv', 'w') as f:
+        template_num = 0
+        for k in template_set:
+            f.write(' '.join(k))
+            f.write('\n')
+        f.close()
+    lenth=len(form)
+
     PC.append(setting['log_file']+'     '+str(PA))
 print('####### % Parsing Accuracy % ########'+'\n')
 for pa_ in PC:

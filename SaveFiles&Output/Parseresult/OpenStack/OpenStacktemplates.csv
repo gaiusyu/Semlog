@@ -1,0 +1,74 @@
+10 1 1 1 "get  <*> http/1 1" status:  <*> len:  <*> time: 0  <*>
+10 1 1 1 "post  <*> http/1 1" status:  <*> len:  <*> time: 0  <*>
+10 1 1 1 "delete  <*> http/1 1" status: 204 len: 203 time: 0  <*>
+compute_service record updated for cp-1 slowvm1 tcloud-pg0 utah cloudlab us:cp-1 slowvm1 tcloud-pg0 utah cloudlab us
+[instance:  <*> vm started (lifecycle event)
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] vm paused (lifecycle event)
+creating event  <*> for instance  <*>
+[instance:  <*> vm resumed (lifecycle event)
+[instance:  <*> instance spawned successfully
+[instance:  <*> instance destroyed successfully
+[instance:  <*> deleting instance files  <*>
+[instance:  <*> deletion of  <*> complete
+removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance:  <*> vm stopped (lifecycle event)
+[instance:  <*> vm paused (lifecycle event)
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] vm started (lifecycle event)
+[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] vm started (lifecycle event)
+[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] vm started (lifecycle event)
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] vm started (lifecycle event)
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] vm started (lifecycle event)
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] vm started (lifecycle event)
+[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] vm started (lifecycle event)
+[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] instance spawned successfully
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] vm started (lifecycle event)
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] instance spawned successfully
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] vm started (lifecycle event)
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] instance spawned successfully
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] vm started (lifecycle event)
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] instance spawned successfully
+[instance: bf8c824d-f099-4433-a41e-e3da7578262e] vm started (lifecycle event)
+[instance: bf8c824d-f099-4433-a41e-e3da7578262e] instance spawned successfully
+[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] vm started (lifecycle event)
+[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] instance spawned successfully
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] vm started (lifecycle event)
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] instance spawned successfully
+[instance: d96a117b-0193-4549-bdcc-63b917273d1d] vm started (lifecycle event)
+[instance: d96a117b-0193-4549-bdcc-63b917273d1d] instance spawned successfully
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] vm started (lifecycle event)
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] instance spawned successfully
+[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] vm started (lifecycle event)
+[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] instance spawned successfully
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] vm started (lifecycle event)
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] instance spawned successfully
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] vm started (lifecycle event)
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] instance spawned successfully
+[instance:  <*> during sync_power_state the instance has a pending task (spawning) skip
+auditing locally available compute resources for node cp-1 slowvm1 tcloud-pg0 utah cloudlab us
+[instance:  <*> attempting claim: memory 2048 mb disk 20 gb vcpus 1 cpu
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local 0 on other nodes sharing this instance storage
+active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance:  <*> terminating instance
+unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance:  <*> claim successful
+[instance:  <*> creating image
+[instance:  <*> took  <*>  <*> seconds to spawn the instance on the hypervisor
+[instance:  <*> took  <*>  <*> seconds to destroy the instance on the hypervisor
+[instance:  <*> took  <*>  <*> seconds to build instance
+[instance:  <*> total memory: 64172 mb used: 512 00 mb
+[instance:  <*> total disk: 15 gb used: 0 00 gb
+[instance:  <*> total vcpu: 16 vcpu used: 0 00 vcpu
+total usable vcpus: 16 total allocated vcpus:  <*>
+final resource view: name=cp-1 slowvm1 tcloud-pg0 utah cloudlab us phys_ram=64172mb  <*> phys_disk=15gb  <*> total_vcpus=16  <*> pci_stats=[]
+[instance:  <*> took 0  <*> seconds to deallocate network for instance
+successfully synced instances from host 'cp-1 slowvm1 tcloud-pg0 utah cloudlab us'
+http exception thrown: no instances found for any event
+[instance:  <*> disk limit not specified defaulting to unlimited
+[instance:  <*> vcpu limit not specified defaulting to unlimited
+base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+[instance:  <*> memory limit: 96258 00 mb free: 95746 00 mb
+running instance usage audit for host cp-1 slowvm1 tcloud-pg0 utah cloudlab us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00 87 instances
+the instance sync for host 'cp-1 slowvm1 tcloud-pg0 utah cloudlab us' did not match re-created its instancelist
+while synchronizing instance power states found 1 instances in the database and 0 instances on the hypervisor
