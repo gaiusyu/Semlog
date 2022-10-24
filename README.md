@@ -14,7 +14,7 @@
 
 #### Docker image:
 1. docker pull docker.io/gaiusyu/semlog:v1
-2. docker run -it --gpus '"device=0"' --name semlog semlog:v1
+2. docker run -it --gpus '"device=0"' --name semlog gaiusyu/semlog:v1
 
 
 The existing parser code reproduced in this paper relies on [LogPai](https://github.com/logpai).
