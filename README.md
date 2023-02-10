@@ -1,7 +1,7 @@
 # Semlog
 ## Self-Supervised Log Parsing Using Semantic Contribution Difference
 
-
+Accepted by Journal of Systems and Software
 
 ### Reproduction
 
